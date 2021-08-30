@@ -1,0 +1,135 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>Title</title>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="//stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" >
+
+    <style>
+        html, body { width: 100%; padding: 0px; margin: 0px; }
+        .innerItem { padding: 5px; line-height: 1.2em; border: 1px solid #EEE; width: 28%; border-radius: .4em;  float: left; margin: 10px; min-height: 160px; }
+        .scwilBoldLabels { font-weight: bold;  letter-spacing: -.03em; }
+        .circle_focusgoals { padding: 10px !important; }
+        .circle_name { font-weight: bold; letter-spacing: -.04em; }
+        .circleHideText { display: none; }
+        .innerItem table { border: 0px; }
+        .innerItem table tbody tr td { margin: 0px; padding: 0px; border: 0px; padding: 2px; padding-bottom: 0px; padding-top: 0px; }
+        td, th {
+            padding: 8px;
+            text-align: left;
+            border-width: 0 0px 0px 0;
+        }
+    </style>
+  </head>
+  <body>
+      
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="//code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="//stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    
+    <div style="border: 0px solid black; ">
+        <div style="width: 40%; display: inline-block; text-align: center;"><input type="text" placeholder="Enter a city name, region name, etc." class="scwil-text-search" style="width: 100%; margin: 0 auto;"></div> <b>- Or -</b>
+        <div style="width: 48%; display: inline-block;"><select class="scwil_gapcategories"><option value="This is a test">Select a category</option></select></div>
+    </div>
+    <div class="scwil_outer_block"></div>
+
+
+
+
+    <script>
+        var fullArr = [];
+        $(document).ready(function(){
+            
+            //fetch('./data/circles_of_women_test.json')
+            fetch('./data/September_GAP_Sheet1.json')
+                .then(response => response.json())
+                //.then(data => console.log(data))
+                .then(data => doLoop(data))
+            var categoriesArr = [];
+
+            function doLoop(data){
+                console.log(data);
+
+              
+
+                $.each(data, function(i, val){
+                    $.each(val['Category'].split(';'), function(i_cat, val_cat){
+                        if (!categoriesArr.includes(val_cat.trim())){
+                                categoriesArr.push(val_cat.trim());
+                        }
+                    })
+
+
+
+
+                        var html_element = '<div class="innerItem">'
+                                    html_element += '<table data-itemnum="' + i + '">'
+                                        html_element += '<tr><td class="circle_name"><h5>' + val['Board/Commission'] + '</h5></td></tr>'
+                                        //html_element += '<tr><td class="circle_city"><span class="scwilBoldLabels">City:</span> ' + val['city'] + ' &nbsp; &nbsp; <span class="scwilBoldLabels">Region:</span> ' + val['region'] + '</td></tr>'
+                                        html_element += '<tr><td class="item_category"><span class="scwilBoldLabels">Category:</span> ' + val['Category'] + '</td></tr>'
+                                        if (val['Description'].length){
+                                            html_element += '<tr><td class="item_description"><span class="scwilBoldLabels">Description:</span> <span style="text-transform: capitalize">' + val['Description'] + '</span></td></tr>'
+                                        }
+                                        html_element += '<tr><td class="item_appointedby"><span class="scwilBoldLabels">Appointed by:</span> ' + val['Appointed By'] + '</td></tr>'
+                                        html_element += '<tr><td class="item_governingstatute"><a href="' + val['Governing Statute'].split(';')[1] + '">'+ val['Governing Statute'].split(';')[0] +'</a></td></tr>'
+                                    html_element += '</table>'
+                            html_element += '</div>'
+                        
+                        $('.scwil_outer_block').append(html_element)
+                });
+
+                categoriesArr.sort();
+                $.each(categoriesArr, function(i3, val3){
+                    $('.scwil_gapcategories').append('<option value="' + val3+ '">' + val3 + '</option>')
+                    //console.log(val3)
+                })
+
+                $('.scwil_gapcategories').on('change', function(){
+                        $('.innerItem').each(function(i, val){
+                                //console.log($('.innerItem').eq(i).find('.item_category').text())
+                                if ($('.innerItem').eq(i).find('.item_category').text().indexOf($('.scwil_gapcategories option:selected').val()) > -1){
+                                    $('.innerItem').eq(i).show();
+                                } else {
+                                    $('.innerItem').eq(i).hide();
+                                }
+                        })
+                })
+
+                $('.scwil-text-search').keyup(function() {
+                        var scwilsearchstring = $(this).val();
+                        //console.log(scwilsearchstring);
+                        $('.innerItem').each(function(i, val){
+                            if ($('.innerItem').eq(i).text().toLowerCase().indexOf(scwilsearchstring.toLowerCase()) > -1){
+                                    $(this).show();
+                            } else {
+                                    $(this).hide();
+                            }
+                        })
+                })
+            }
+
+
+            $( window ).resize(function() {
+                if ($(window).width() < 601){
+                     $('.innerItem').css({
+                         'width': '100%'
+                     })   
+                } else {
+                    $('.innerItem').css({
+                         'width': '28%'
+                     }) 
+                }
+            });
+        });
+
+       
+    </script>
+  </body>
+</html>
+
