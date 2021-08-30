@@ -11,10 +11,10 @@
 
     <style>
         html, body { width: 100%; padding: 0px; margin: 0px; }
-        .innerItem { padding: 5px; line-height: 1.2em; border: 1px solid #EEE; width: 28%; border-radius: .4em;  float: left; margin: 10px; min-height: 160px; }
+        .innerItem { padding: 5px; line-height: 1.2em; border: 1px solid #ccc; width: 31%; border-radius: .4em;  float: left; margin: 10px; min-height: 250px; }
         .scwilBoldLabels { font-weight: bold;  letter-spacing: -.03em; }
         .circle_focusgoals { padding: 10px !important; }
-        .circle_name { font-weight: bold; letter-spacing: -.04em; }
+        .circle_name { font-weight: bold; letter-spacing: -.04em; line-height:.9em !important; }
         .circleHideText { display: none; }
         .innerItem table { border: 0px; }
         .innerItem table tbody tr td { margin: 0px; padding: 0px; border: 0px; padding: 2px; padding-bottom: 0px; padding-top: 0px; }
@@ -34,8 +34,8 @@
     <script src="//stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
     
     <div style="border: 0px solid black; ">
-        <div style="width: 40%; display: inline-block; text-align: center;"><input type="text" placeholder="Enter a city name, region name, etc." class="scwil-text-search" style="width: 100%; margin: 0 auto;"></div> <b>- Or -</b>
-        <div style="width: 48%; display: inline-block;"><select class="scwil_gapcategories"><option value="This is a test">Select a category</option></select></div>
+        <div style="width: 20%; display: inline-block; text-align: center;"><input type="text" placeholder="Enter search string" class="scwil-text-search" style="width: 100%; margin: 0 auto;"></div> <b>- Or -</b>
+        <div style="width: 30%; display: inline-block;"><select class="scwil_gapcategories"><option value="This is a test">Select a category</option></select></div>
     </div>
     <div class="scwil_outer_block"></div>
 
@@ -47,7 +47,7 @@
         $(document).ready(function(){
             
             //fetch('./data/circles_of_women_test.json')
-            fetch('./data/September_GAP_Sheet1.json')
+            fetch('https://cdn.jsdelivr.net/gh/tamaker/scwil-gap-database@latest/September_GAP_Sheet1.json')
                 .then(response => response.json())
                 //.then(data => console.log(data))
                 .then(data => doLoop(data))
@@ -70,7 +70,7 @@
 
                         var html_element = '<div class="innerItem">'
                                     html_element += '<table data-itemnum="' + i + '">'
-                                        html_element += '<tr><td class="circle_name"><h5>' + val['Board/Commission'] + '</h5></td></tr>'
+                                        html_element += '<tr><td class="circle_name"><h3>' + val['Board/Commission'] + '</h3></td></tr>'
                                         //html_element += '<tr><td class="circle_city"><span class="scwilBoldLabels">City:</span> ' + val['city'] + ' &nbsp; &nbsp; <span class="scwilBoldLabels">Region:</span> ' + val['region'] + '</td></tr>'
                                         html_element += '<tr><td class="item_category"><span class="scwilBoldLabels">Category:</span> ' + val['Category'] + '</td></tr>'
                                         if (val['Description'].length){
@@ -127,6 +127,37 @@
                 }
             });
         });
+
+
+        var gapLinks = [
+            {
+                "pageTitle": "Special Confirmation",
+                "pageUrl": "gap-senate-confirmable-positions"
+            },
+            {
+                "pageTitle": "Available seats",
+                "pageUrl": "gap-available-seats"
+            },
+            {
+                "pageTitle": "How It Works",
+                "pageUrl": "gap-how-it-works"
+            },
+            {
+                "pageTitle": "About GAP",
+                "pageUrl": "gap-about"
+            }
+        ];
+
+
+
+        jQuery(gapLinks).each(function(i, val){
+              jQuery('.gap-links').prepend('<br>- <a href="/'+ val.pageUrl +'">'+ val.pageTitle +'</a>')
+          });
+          
+          jQuery('.gap-links').append('<br><br><div id="gap-sponsor-block" style="">SC Women in Leadership (SC WIL) thanks Nephron Pharmaceuticals and Aflac for their assistance in seeking the talents of our state\'s best leaders to meet our State\'s challenges.<center><a href="https://www.aflac.com" target="_blank" rel="noopener noreferrer"><img src="/wp-content/uploads/2019/10/sponsor_logo_aflac_1b-300x105.png" style="width: 30%;height: auto;max-width:200px;margin: 0 auto; opacity: .6;"></a>  <a href="https://www.nephronpharm.com/"><img src="/wp-content/uploads/2019/10/sponsor_logo_nephron.png" style="width: 30%;height: auto;max-width:300px;margin: 0 auto;" target="_blank"></a></center></div>');
+                  
+
+
 
        
     </script>
