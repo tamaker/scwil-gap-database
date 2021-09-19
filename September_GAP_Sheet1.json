@@ -1,7 +1,7 @@
 [
   {
     "Category": "Adult & Child Welfare; Disabilities; Health & Medicine",
-    "Board/Commission": "TESTAdult Protection Coordinating Council",
+    "Board/Commission": "Adult Protection Coordinating Council",
     "Open Date": "Vacant",
     "Description": "Institutional Care, Consumer or Family Member",
     "Appointed By": "Please contact the Adult Protection Coordinating Council directly to apply",
@@ -210,7 +210,7 @@
   {
     "Category": "Professional; Workforce",
     "Board/Commission": "Advisory Panel for Massage/Bodywork",
-    "Open Date": "6/30/2017",
+    "Open Date": "Vacant",
     "Description": "Massage/Bodywork Therapist",
     "Appointed By": "The Governor",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t40c030.php"
@@ -266,7 +266,7 @@
   {
     "Category": "Agriculture",
     "Board/Commission": "Agriculture Commission",
-    "Open Date": "12/31/2019",
+    "Open Date": "Vacant",
     "Description": "Resident of the 4th Judicial Circuit",
     "Appointed By": "Please contact the Legislative Delegation for the 4th Judicial Circuit directly to apply",
     "Governing Statute": "Governing Statute; http://www.scstatehouse.gov/code/t46c005.php"
@@ -554,7 +554,7 @@
   {
     "Category": "Professional; Adult & Child Welfare; Workforce",
     "Board/Commission": "Board of Examiners for the Licensure of Professional Counselors, Marriage and Family Therapists and Psycho-educational Specialists",
-    "Open Date": "12/1/2013",
+    "Open Date": "12/1/2021",
     "Description": "6th Congressional District",
     "Appointed By": "The Governor",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t40c075.php"
@@ -699,6 +699,14 @@
     "Category": "Military & Veterans",
     "Board/Commission": "Board of Trustees for the Veterans' Trust Fund of South Carolina",
     "Open Date": "Vacant",
+    "Description": "County Veterans Affairs Officers",
+    "Appointed By": "The Governor & confirmed by the Senate Family and Veterans' Services Committee",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t25c021.php"
+  },
+  {
+    "Category": "Military & Veterans",
+    "Board/Commission": "Board of Trustees for the Veterans' Trust Fund of South Carolina",
+    "Open Date": "Vacant",
     "Description": "Veterans Service Organizations Representative",
     "Appointed By": "The Governor & confirmed by the Senate Family and Veterans' Services Committee",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t25c021.php"
@@ -772,14 +780,6 @@
     "Board/Commission": "Board of Trustees, Children's Trust Fund of South Carolina",
     "Open Date": "Vacant",
     "Description": "5th Congressional District",
-    "Appointed By": "The Governor",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t63c011.php"
-  },
-  {
-    "Category": "Adult & Child Welfare",
-    "Board/Commission": "Board of Trustees, Children's Trust Fund of South Carolina",
-    "Open Date": "6/30/2020",
-    "Description": "6th Congressional District",
     "Appointed By": "The Governor",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t63c011.php"
   },
@@ -1240,14 +1240,6 @@
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t17c003.php"
   },
   {
-    "Category": "Criminal Justice & Legal",
-    "Board/Commission": "Commission on Indigent Defense",
-    "Open Date": "7/1/2021",
-    "Description": "Practices Neither Family or Defense Law",
-    "Appointed By": "Recommended by South Carolina Bar to the Governor",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t17c003.php"
-  },
-  {
     "Category": "Government",
     "Board/Commission": "Commission on Interstate Cooperation",
     "Open Date": "Vacant",
@@ -1611,22 +1603,6 @@
     "Category": "Business & Finance; Health & Medicine",
     "Board/Commission": "Data Oversight Council",
     "Open Date": "Vacant",
-    "Description": "Hospital Administrator",
-    "Appointed By": "The Governor",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t44c006.php"
-  },
-  {
-    "Category": "Business & Finance; Health & Medicine",
-    "Board/Commission": "Data Oversight Council",
-    "Open Date": "Vacant",
-    "Description": "Managed Health Care Industry Representative",
-    "Appointed By": "The Governor",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t44c006.php"
-  },
-  {
-    "Category": "Business & Finance; Health & Medicine",
-    "Board/Commission": "Data Oversight Council",
-    "Open Date": "Vacant",
     "Description": "Non-Healthcare Related Business Representative",
     "Appointed By": "The Governor",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t44c006.php"
@@ -1644,14 +1620,6 @@
     "Board/Commission": "Data Oversight Council",
     "Open Date": "Vacant",
     "Description": "Non-Healthcare Related Business Representative",
-    "Appointed By": "The Governor",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t44c006.php"
-  },
-  {
-    "Category": "Business & Finance; Health & Medicine",
-    "Board/Commission": "Data Oversight Council",
-    "Open Date": "Vacant",
-    "Description": "Non-Healthcare Related Business with Less than 100 Employees Representative",
     "Appointed By": "The Governor",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t44c006.php"
   },
@@ -1668,30 +1636,6 @@
     "Board/Commission": "Data Oversight Council",
     "Open Date": "6/30/2011",
     "Description": "Physician",
-    "Appointed By": "The Governor",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t44c006.php"
-  },
-  {
-    "Category": "Business & Finance; Health & Medicine",
-    "Board/Commission": "Data Oversight Council",
-    "Open Date": "Vacant",
-    "Description": "SC Chamber of Commerce Designee",
-    "Appointed By": "The Governor",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t44c006.php"
-  },
-  {
-    "Category": "Business & Finance; Health & Medicine",
-    "Board/Commission": "Data Oversight Council",
-    "Open Date": "6/30/2020",
-    "Description": "SC Hospital Association Designee",
-    "Appointed By": "The Governor",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t44c006.php"
-  },
-  {
-    "Category": "Business & Finance; Health & Medicine",
-    "Board/Commission": "Data Oversight Council",
-    "Open Date": "Vacant",
-    "Description": "Third Party Healthcare Payer",
     "Appointed By": "The Governor",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t44c006.php"
   },
@@ -1779,8 +1723,8 @@
     "Category": "Health & Medicine",
     "Board/Commission": "Diabetes Initiative for South Carolina Board",
     "Open Date": "Vacant",
-    "Description": "Governor's Office Representative",
-    "Appointed By": "The Governor",
+    "Description": "",
+    "Appointed By": "Please contact the President of MUSC directly to apply",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t44c039.php"
   },
   {
@@ -2205,38 +2149,6 @@
     "Open Date": "Vacant",
     "Description": "",
     "Appointed By": "The Governor",
-    "Governing Statute": "Governing Statute; https://dc.statelibrary.sc.gov/bitstream/handle/10827/935/Executive_Order_88-03.pdf?sequence=1"
-  },
-  {
-    "Category": "Health & Medicine",
-    "Board/Commission": "Governor's Council on Physical Fitness",
-    "Open Date": "Vacant",
-    "Description": "",
-    "Appointed By": "The Governor",
-    "Governing Statute": "Governing Statute; https://dc.statelibrary.sc.gov/bitstream/handle/10827/935/Executive_Order_88-03.pdf?sequence=2"
-  },
-  {
-    "Category": "Health & Medicine",
-    "Board/Commission": "Governor's Council on Physical Fitness",
-    "Open Date": "Vacant",
-    "Description": "",
-    "Appointed By": "The Governor",
-    "Governing Statute": "Governing Statute; https://dc.statelibrary.sc.gov/bitstream/handle/10827/935/Executive_Order_88-03.pdf?sequence=3"
-  },
-  {
-    "Category": "Health & Medicine",
-    "Board/Commission": "Governor's Council on Physical Fitness",
-    "Open Date": "Vacant",
-    "Description": "",
-    "Appointed By": "The Governor",
-    "Governing Statute": "Governing Statute; https://dc.statelibrary.sc.gov/bitstream/handle/10827/935/Executive_Order_88-03.pdf?sequence=4"
-  },
-  {
-    "Category": "Health & Medicine",
-    "Board/Commission": "Governor's Council on Physical Fitness",
-    "Open Date": "Vacant",
-    "Description": "",
-    "Appointed By": "The Governor",
     "Governing Statute": "Governing Statute; https://dc.statelibrary.sc.gov/bitstream/handle/10827/935/Executive_Order_88-03.pdf?sequence=5"
   },
   {
@@ -2499,16 +2411,16 @@
     "Category": "Arts & Museums",
     "Board/Commission": "Jean Laney Harris Folk Heritage Award Advisory Committee",
     "Open Date": "1/1/2022",
-    "Description": "Arts Commission Member",
-    "Appointed By": "Please contact the Art Commission directly to apply",
+    "Description": "President of the Senate Appointee",
+    "Appointed By": "Please contact the President of the South Carolina Senate directly to apply",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t02c066.php"
   },
   {
     "Category": "Arts & Museums",
     "Board/Commission": "Jean Laney Harris Folk Heritage Award Advisory Committee",
     "Open Date": "1/1/2022",
-    "Description": "Arts Commission Member",
-    "Appointed By": "Please contact the Art Commission directly to apply",
+    "Description": "President of the Senate Appointee",
+    "Appointed By": "Please contact the President of the South Carolina Senate directly to apply",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t02c066.php"
   },
   {
@@ -2986,14 +2898,6 @@
   {
     "Category": "Business & Finance; Local & Regional Affairs; Recreation & Tourism",
     "Board/Commission": "Lowcountry and Resort Islands Tourism Commission",
-    "Open Date": "6/30/2019",
-    "Description": "Beaufort Chamber of Commerce",
-    "Appointed By": "Please contact the Beaufort County Legislative Delegation directly to apply",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t51c013.php"
-  },
-  {
-    "Category": "Business & Finance; Local & Regional Affairs; Recreation & Tourism",
-    "Board/Commission": "Lowcountry and Resort Islands Tourism Commission",
     "Open Date": "6/30/2003",
     "Description": "Colleton Chamber of Commerce",
     "Appointed By": "Please contact the Colleton County Legislative Delegation directly to apply",
@@ -3029,14 +2933,6 @@
     "Open Date": "6/30/2006",
     "Description": "Hampton Hospitality Industry",
     "Appointed By": "Please contact the Hampton County Legislative Delegation directly to apply",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t51c013.php"
-  },
-  {
-    "Category": "Business & Finance; Local & Regional Affairs; Recreation & Tourism",
-    "Board/Commission": "Lowcountry and Resort Islands Tourism Commission",
-    "Open Date": "6/30/2015",
-    "Description": "Jasper Chamber of Commerce",
-    "Appointed By": "Please contact the Jasper County Legislative Delegation directly to apply",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t51c013.php"
   },
   {
@@ -3530,31 +3426,7 @@
   {
     "Category": "Business & Finance; Economic Development & Trade; Recreation & Tourism; Local & Regional Affairs",
     "Board/Commission": "Old Ninety Six Tourism Commission",
-    "Open Date": "7/9/2021",
-    "Description": "Edgefield",
-    "Appointed By": "Please contact the Greenwood County Legislative Delegation directly to apply",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t51c013.php"
-  },
-  {
-    "Category": "Business & Finance; Economic Development & Trade; Recreation & Tourism; Local & Regional Affairs",
-    "Board/Commission": "Old Ninety Six Tourism Commission",
-    "Open Date": "7/9/2021",
-    "Description": "Edgefield",
-    "Appointed By": "Please contact the Greenwood County Legislative Delegation directly to apply",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t51c013.php"
-  },
-  {
-    "Category": "Business & Finance; Economic Development & Trade; Recreation & Tourism; Local & Regional Affairs",
-    "Board/Commission": "Old Ninety Six Tourism Commission",
     "Open Date": "7/23/2021",
-    "Description": "Greenwood",
-    "Appointed By": "Please contact the Greenwood County Legislative Delegation directly to apply",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t51c013.php"
-  },
-  {
-    "Category": "Business & Finance; Economic Development & Trade; Recreation & Tourism; Local & Regional Affairs",
-    "Board/Commission": "Old Ninety Six Tourism Commission",
-    "Open Date": "7/23/2001",
     "Description": "Greenwood",
     "Appointed By": "Please contact the Greenwood County Legislative Delegation directly to apply",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t51c013.php"
@@ -3794,7 +3666,7 @@
   {
     "Category": "Education; Criminal Justice & Legal",
     "Board/Commission": "Palmetto Unified School District Board of Trustees",
-    "Open Date": "4/1/2016",
+    "Open Date": "2/7/2022",
     "Description": "Dept. of Correction Appointee",
     "Appointed By": "Please contact the SC Department of Corrections Director directly to apply",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t24c025.php"
@@ -3802,9 +3674,9 @@
   {
     "Category": "Education; Criminal Justice & Legal",
     "Board/Commission": "Palmetto Unified School District Board of Trustees",
-    "Open Date": "8/25/2020",
-    "Description": "Dept. of Education Appointee",
-    "Appointed By": "Please contact the State Superintendent of Education directly to apply",
+    "Open Date": "4/1/2016",
+    "Description": "Dept. of Correction Appointee",
+    "Appointed By": "Please contact the SC Department of Corrections Director directly to apply",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t24c025.php"
   },
   {
@@ -3950,6 +3822,14 @@
     "Description": "Marion County Resident",
     "Appointed By": "Recommended by the Marion County Council to the Governor",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t55c011.php"
+  },
+  {
+    "Category": "Recreation & Tourism; Business & Finance; Historical",
+    "Board/Commission": "Pee Dee Tourism Commission",
+    "Open Date": "3/1/2022",
+    "Description": "Darlington County Resident",
+    "Appointed By": "Recommended by the Darlington County Legislative Delegation to the Governor",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t51c013.php"
   },
   {
     "Category": "Recreation & Tourism; Business & Finance; Historical",
@@ -4546,14 +4426,6 @@
   {
     "Category": "Recreation & Tourism; Real Estate, Development & Housing",
     "Board/Commission": "Santee-Cooper Counties Promotion Commission",
-    "Open Date": "1/1/2021",
-    "Description": "Orangeburg County",
-    "Appointed By": "Recommended by the Orangeburg County Legislative Delegation to the Governor",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t51c013.php"
-  },
-  {
-    "Category": "Recreation & Tourism; Real Estate, Development & Housing",
-    "Board/Commission": "Santee-Cooper Counties Promotion Commission",
     "Open Date": "Vacant",
     "Description": "Orangeburg County",
     "Appointed By": "Recommended by the Orangeburg County Legislative Delegation to the Governor",
@@ -5042,22 +4914,6 @@
   {
     "Category": "Business & Finance; Professional; Workforce",
     "Board/Commission": "South Carolina Board of Accountancy",
-    "Open Date": "6/30/2020",
-    "Description": "1st Congressional District CPA",
-    "Appointed By": "The Governor",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t40c002.php"
-  },
-  {
-    "Category": "Business & Finance; Professional; Workforce",
-    "Board/Commission": "South Carolina Board of Accountancy",
-    "Open Date": "Vacant",
-    "Description": "5th Congressional District CPA",
-    "Appointed By": "The Governor",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t40c002.php"
-  },
-  {
-    "Category": "Business & Finance; Professional; Workforce",
-    "Board/Commission": "South Carolina Board of Accountancy",
     "Open Date": "6/30/2021",
     "Description": "7th Congressional District CPA",
     "Appointed By": "The Governor",
@@ -5086,38 +4942,6 @@
     "Description": "Licensed Accounting Practitioner/Public Accountant",
     "Appointed By": "The Governor",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t40c002.php"
-  },
-  {
-    "Category": "Health & Medicine; Professional",
-    "Board/Commission": "South Carolina Board of Chiropractic Examiners",
-    "Open Date": "7/12/2020",
-    "Description": "2nd Congressional District",
-    "Appointed By": "Recommended by the Board of Chiropractic Examiners to the Governor",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t40c009.php"
-  },
-  {
-    "Category": "Health & Medicine; Professional",
-    "Board/Commission": "South Carolina Board of Chiropractic Examiners",
-    "Open Date": "7/12/2020",
-    "Description": "4th Congressional District",
-    "Appointed By": "Recommended by the Board of Chiropractic Examiners to the Governor",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t40c009.php"
-  },
-  {
-    "Category": "Health & Medicine; Professional",
-    "Board/Commission": "South Carolina Board of Chiropractic Examiners",
-    "Open Date": "6/30/2020",
-    "Description": "6th Congressional District",
-    "Appointed By": "Recommended by the Board of Chiropractic Examiners to the Governor",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t40c009.php"
-  },
-  {
-    "Category": "Health & Medicine; Professional",
-    "Board/Commission": "South Carolina Board of Chiropractic Examiners",
-    "Open Date": "6/30/2020",
-    "Description": "7th Congressional District",
-    "Appointed By": "Recommended by the Board of Chiropractic Examiners to the Governor",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t40c009.php"
   },
   {
     "Category": "Health & Medicine; Professional",
@@ -5227,14 +5051,6 @@
     "Category": "Health & Medicine; Professional; Workforce",
     "Board/Commission": "South Carolina Board of Examiners in Opticianry",
     "Open Date": "9/13/2018",
-    "Description": "Optician",
-    "Appointed By": "Recommended by the Board of Examiners in Opticianry to the Governor",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t40c038.php"
-  },
-  {
-    "Category": "Health & Medicine; Professional; Workforce",
-    "Board/Commission": "South Carolina Board of Examiners in Opticianry",
-    "Open Date": "9/13/2019",
     "Description": "Optician",
     "Appointed By": "Recommended by the Board of Examiners in Opticianry to the Governor",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t40c038.php"
@@ -5501,14 +5317,6 @@
     "Open Date": "1/1/2020",
     "Description": "Engineer",
     "Appointed By": "Recommended by the Council of Engineering and Surveying Societies and appointed by the Governor",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t06c009.php"
-  },
-  {
-    "Category": "Professional; Building & Zoning; Engineering & Mechanics; Government; Disabilities; Workforce",
-    "Board/Commission": "South Carolina Building Codes Council",
-    "Open Date": "1/1/2018",
-    "Description": "Fire Marshal or Fire Chief",
-    "Appointed By": "Recommended by the State Fire Marshal and appointed by the Governor",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t06c009.php"
   },
   {
@@ -6250,14 +6058,6 @@
   {
     "Category": "Disabilities; Adult & Child Welfare",
     "Board/Commission": "South Carolina Developmental Disabilities Council",
-    "Open Date": "9/30/2020",
-    "Description": "Parent/Guardian",
-    "Appointed By": "The Governor",
-    "Governing Statute": "Governing Statute; https://dc.statelibrary.sc.gov/bitstream/handle/10827/1957/Executive_Order_2010-03.pdf?sequence=1&is"
-  },
-  {
-    "Category": "Disabilities; Adult & Child Welfare",
-    "Board/Commission": "South Carolina Developmental Disabilities Council",
     "Open Date": "9/30/2021",
     "Description": "Parent/Guardian",
     "Appointed By": "The Governor",
@@ -6564,7 +6364,15 @@
     "Board/Commission": "South Carolina First Steps to School Readiness Board of Trustees",
     "Open Date": "11/4/2021",
     "Description": "Early Childhood Educator",
-    "Appointed By": "The Governor",
+    "Appointed By": "Please contact the President of the South Carolina Senate directly to apply",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t63c011.php"
+  },
+  {
+    "Category": "Adult & Child Welfare; Business & Finance; Education; Health & Medicine",
+    "Board/Commission": "South Carolina First Steps to School Readiness Board of Trustees",
+    "Open Date": "2/20/2022",
+    "Description": "Medical or Childcare Provider",
+    "Appointed By": "Please contact the President of the South Carolina Senate directly to apply",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t63c011.php"
   },
   {
@@ -6826,14 +6634,6 @@
   {
     "Category": "Arts & Museums; Historical; Science; Environment & Conservation",
     "Board/Commission": "South Carolina Heritage Trust Advisory Board",
-    "Open Date": "Vacant",
-    "Description": "3rd Congressional District",
-    "Appointed By": "The Governor",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t51c017.php"
-  },
-  {
-    "Category": "Arts & Museums; Historical; Science; Environment & Conservation",
-    "Board/Commission": "South Carolina Heritage Trust Advisory Board",
     "Open Date": "12/31/2015",
     "Description": "4th Congressional District",
     "Appointed By": "The Governor",
@@ -6923,14 +6723,6 @@
     "Category": "Adult & Child Welfare; Disabilities; Education; Government",
     "Board/Commission": "South Carolina Interagency Coordinating Council",
     "Open Date": "7/24/2018",
-    "Description": "Head Start",
-    "Appointed By": "The Governor",
-    "Governing Statute": "Governing Statute; https://www.law.cornell.edu/cfr/text/34/303.601"
-  },
-  {
-    "Category": "Adult & Child Welfare; Disabilities; Education; Government",
-    "Board/Commission": "South Carolina Interagency Coordinating Council",
-    "Open Date": "7/24/2018",
     "Description": "Parent",
     "Appointed By": "The Governor",
     "Governing Statute": "Governing Statute; https://www.law.cornell.edu/cfr/text/34/303.601"
@@ -6939,6 +6731,14 @@
     "Category": "Adult & Child Welfare; Disabilities; Education; Government",
     "Board/Commission": "South Carolina Interagency Coordinating Council",
     "Open Date": "7/24/2012",
+    "Description": "Parent",
+    "Appointed By": "The Governor",
+    "Governing Statute": "Governing Statute; https://www.law.cornell.edu/cfr/text/34/303.601"
+  },
+  {
+    "Category": "Adult & Child Welfare; Disabilities; Education; Government",
+    "Board/Commission": "South Carolina Interagency Coordinating Council",
+    "Open Date": "2/28/2022",
     "Description": "Parent",
     "Appointed By": "The Governor",
     "Governing Statute": "Governing Statute; https://www.law.cornell.edu/cfr/text/34/303.601"
@@ -6962,6 +6762,14 @@
   {
     "Category": "Adult & Child Welfare; Disabilities; Education; Government",
     "Board/Commission": "South Carolina Interagency Coordinating Council",
+    "Open Date": "2/22/2022",
+    "Description": "Provider",
+    "Appointed By": "The Governor",
+    "Governing Statute": "Governing Statute; https://www.law.cornell.edu/cfr/text/34/303.601"
+  },
+  {
+    "Category": "Adult & Child Welfare; Disabilities; Education; Government",
+    "Board/Commission": "South Carolina Interagency Coordinating Council",
     "Open Date": "7/24/2021",
     "Description": "Provider",
     "Appointed By": "The Governor",
@@ -6972,6 +6780,22 @@
     "Board/Commission": "South Carolina Interagency Coordinating Council",
     "Open Date": "7/24/2021",
     "Description": "Provider of EI Services",
+    "Appointed By": "The Governor",
+    "Governing Statute": "Governing Statute; https://www.law.cornell.edu/cfr/text/34/303.601"
+  },
+  {
+    "Category": "Adult & Child Welfare; Disabilities; Education; Government",
+    "Board/Commission": "South Carolina Interagency Coordinating Council",
+    "Open Date": "2/28/2022",
+    "Description": "Provider of EI Services",
+    "Appointed By": "The Governor",
+    "Governing Statute": "Governing Statute; https://www.law.cornell.edu/cfr/text/34/303.601"
+  },
+  {
+    "Category": "Adult & Child Welfare; Disabilities; Education; Government",
+    "Board/Commission": "South Carolina Interagency Coordinating Council",
+    "Open Date": "2/28/2022",
+    "Description": "Trainer of Personnel",
     "Appointed By": "The Governor",
     "Governing Statute": "Governing Statute; https://www.law.cornell.edu/cfr/text/34/303.601"
   },
@@ -7058,7 +6882,7 @@
   {
     "Category": "Business & Finance; Criminal Justice & Legal",
     "Board/Commission": "South Carolina Lottery Commission",
-    "Open Date": "6/30/2020",
+    "Open Date": "Vacant",
     "Description": "At-Large",
     "Appointed By": "Please contact the President of the South Carolina Senate directly to apply",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t59c150.php"
@@ -7074,33 +6898,9 @@
   {
     "Category": "Business & Finance; Criminal Justice & Legal",
     "Board/Commission": "South Carolina Lottery Commission",
-    "Open Date": "7/1/2017",
-    "Description": "At-Large",
-    "Appointed By": "The Governor",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t59c150.php"
-  },
-  {
-    "Category": "Business & Finance; Criminal Justice & Legal",
-    "Board/Commission": "South Carolina Lottery Commission",
-    "Open Date": "7/3/2021",
-    "Description": "At-Large",
-    "Appointed By": "The Governor",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t59c150.php"
-  },
-  {
-    "Category": "Business & Finance; Criminal Justice & Legal",
-    "Board/Commission": "South Carolina Lottery Commission",
     "Open Date": "1/1/2021",
     "Description": "At-Large",
     "Appointed By": "Please contact the President of the South Carolina Senate directly to apply",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t59c150.php"
-  },
-  {
-    "Category": "Business & Finance; Criminal Justice & Legal",
-    "Board/Commission": "South Carolina Lottery Commission",
-    "Open Date": "Vacant",
-    "Description": "At-Large",
-    "Appointed By": "The Governor",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t59c150.php"
   },
   {
@@ -7162,8 +6962,24 @@
   {
     "Category": "Adult & Child Welfare; Health & Medicine",
     "Board/Commission": "South Carolina Mental Health Commission",
+    "Open Date": "3/21/2022",
+    "Description": "2nd Congressional District",
+    "Appointed By": "The Governor & confirmed by the Senate Medical Affairs Committee",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t44c009.php"
+  },
+  {
+    "Category": "Adult & Child Welfare; Health & Medicine",
+    "Board/Commission": "South Carolina Mental Health Commission",
     "Open Date": "3/21/2021",
     "Description": "3rd Congressional District",
+    "Appointed By": "The Governor & confirmed by the Senate Medical Affairs Committee",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t44c009.php"
+  },
+  {
+    "Category": "Adult & Child Welfare; Health & Medicine",
+    "Board/Commission": "South Carolina Mental Health Commission",
+    "Open Date": "3/21/2022",
+    "Description": "4th Congressional District",
     "Appointed By": "The Governor & confirmed by the Senate Medical Affairs Committee",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t44c009.php"
   },
@@ -7381,6 +7197,14 @@
     "Open Date": "6/30/2017",
     "Description": "Municipal Police Chief",
     "Appointed By": "The Governor",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t23c006.php"
+  },
+  {
+    "Category": "Criminal Justice & Legal; Emergency Services & Security",
+    "Board/Commission": "South Carolina Public Safety Coordinating Council",
+    "Open Date": "Vacant",
+    "Description": "Victim Advocate",
+    "Appointed By": "Please contact the Attorney General directly to apply",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t23c006.php"
   },
   {
@@ -7628,14 +7452,6 @@
     "Board/Commission": "South Carolina Retirement Investment Commission",
     "Open Date": "6/30/2020",
     "Description": "Seat 1",
-    "Appointed By": "The Governor",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t09c016.php"
-  },
-  {
-    "Category": "Business & Finance; Insurance",
-    "Board/Commission": "South Carolina Retirement Investment Commission",
-    "Open Date": "6/30/2021",
-    "Description": "Seat 2",
     "Appointed By": "The Governor",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t09c016.php"
   },
@@ -8116,6 +7932,22 @@
     "Board/Commission": "Spinal Cord Injury Research Board",
     "Open Date": "3/8/2021",
     "Description": "Doctor, Spinal Injury",
+    "Appointed By": "Recommended by the President of the MUSC to the Governor",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t44c038.php"
+  },
+  {
+    "Category": "Adult & Child Welfare; Health & Medicine",
+    "Board/Commission": "Spinal Cord Injury Research Board",
+    "Open Date": "3/8/2022",
+    "Description": "Doctor, Staff/faculty of MUSC",
+    "Appointed By": "Recommended by the President of the MUSC to the Governor",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t44c038.php"
+  },
+  {
+    "Category": "Adult & Child Welfare; Health & Medicine",
+    "Board/Commission": "Spinal Cord Injury Research Board",
+    "Open Date": "3/8/2022",
+    "Description": "Person/family with spinal injry",
     "Appointed By": "Recommended by the President of the MUSC to the Governor",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t44c038.php"
   },
@@ -9041,6 +8873,14 @@
   },
   {
     "Category": "Health & Medicine; Professional; Workforce",
+    "Board/Commission": "State Board of Pharmacy",
+    "Open Date": "Vacant",
+    "Description": "At-Large",
+    "Appointed By": "The Governor & confirmed by the Senate Medical Affairs Committee",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t40c043.php"
+  },
+  {
+    "Category": "Health & Medicine; Professional; Workforce",
     "Board/Commission": "State Board of Physical Therapy Examiners",
     "Open Date": "11/19/2019",
     "Description": "1st Congressional District, PT",
@@ -9336,14 +9176,6 @@
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t01c031.php"
   },
   {
-    "Category": "Environment & Conservation; Agriculture; Fishing & Wildlife; Professional",
-    "Board/Commission": "State Commission of Forestry",
-    "Open Date": "6/30/2021",
-    "Description": "Practical Lumberman",
-    "Appointed By": "The Governor & confirmed by the Senate Fish, Game and Forestry Committee",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t48c023.php"
-  },
-  {
     "Category": "Government; Criminal Justice & Legal",
     "Board/Commission": "State Ethics Commission",
     "Open Date": "4/1/2020",
@@ -9458,7 +9290,7 @@
   {
     "Category": "Adult & Child Welfare",
     "Board/Commission": "State Human Affairs Commission",
-    "Open Date": "6/30/2018",
+    "Open Date": "Vacant",
     "Description": "3rd Congressional District",
     "Appointed By": "The Governor & confirmed by the Senate Judiciary Committee",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t01c013.php"
@@ -9466,7 +9298,7 @@
   {
     "Category": "Adult & Child Welfare",
     "Board/Commission": "State Human Affairs Commission",
-    "Open Date": "6/30/2012",
+    "Open Date": "Vacant",
     "Description": "4th Congressional District",
     "Appointed By": "The Governor & confirmed by the Senate Judiciary Committee",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t01c013.php"
