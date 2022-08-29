@@ -794,7 +794,7 @@
   {
     "Category": "Adult & Child Welfare",
     "Board/Commission": "Board of Trustees, Children's Trust Fund of South Carolina",
-    "Open Date": "9/30/2018",
+    "Open Date": "9/30/2022",
     "Description": "4th Congressional District",
     "Appointed By": "The Governor",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t63c011.php"
@@ -1186,14 +1186,6 @@
   {
     "Category": "Education; Criminal Justice & Legal; Business & Finance",
     "Board/Commission": "College of Charleston Board of Trustees",
-    "Open Date": "7/1/2022",
-    "Description": "Alumni Association",
-    "Appointed By": "Legislature's College and University Trustee Screening Commission",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t59c130.php"
-  },
-  {
-    "Category": "Education; Criminal Justice & Legal; Business & Finance",
-    "Board/Commission": "College of Charleston Board of Trustees",
     "Open Date": "6/30/2022",
     "Description": "2nd Congressional District",
     "Appointed By": "Legislature's College and University Trustee Screening Commission",
@@ -1294,6 +1286,14 @@
     "Description": "At-Large",
     "Appointed By": "The Governor & confirmed by the Senate Banking and Insurance Committee",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t37c006.php"
+  },
+  {
+    "Category": "Criminal Justice & Legal",
+    "Board/Commission": "Commission on Indigent Defense",
+    "Open Date": "3/4/2023",
+    "Description": "Retired Circuit Court Judge",
+    "Appointed By": "Please contact the Chief Justice of the South Carolina Supreme Court directly to apply",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t17c003.php"
   },
   {
     "Category": "Government",
@@ -3290,14 +3290,6 @@
   {
     "Category": "Environment & Conservation; Fishing & Wildlife",
     "Board/Commission": "Marine Advisory Committee",
-    "Open Date": "Vacant",
-    "Description": "DNR Appointee",
-    "Appointed By": "Please contact the Board of Department of Natural Resources",
-    "Governing Statute": ""
-  },
-  {
-    "Category": "Environment & Conservation; Fishing & Wildlife",
-    "Board/Commission": "Marine Advisory Committee",
     "Open Date": "6/30/2022",
     "Description": "DNR Appointee",
     "Appointed By": "Please contact the Board of Department of Natural Resources",
@@ -3315,14 +3307,6 @@
     "Category": "Environment & Conservation; Fishing & Wildlife",
     "Board/Commission": "Marine Advisory Committee",
     "Open Date": "6/30/2022",
-    "Description": "DNR Appointee",
-    "Appointed By": "Please contact the Board of Department of Natural Resources",
-    "Governing Statute": ""
-  },
-  {
-    "Category": "Environment & Conservation; Fishing & Wildlife",
-    "Board/Commission": "Marine Advisory Committee",
-    "Open Date": "Vacant",
     "Description": "DNR Appointee",
     "Appointed By": "Please contact the Board of Department of Natural Resources",
     "Governing Statute": ""
@@ -4952,6 +4936,14 @@
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t40c065.php"
   },
   {
+    "Category": "Environment & Conservation; Agriculture",
+    "Board/Commission": "Soil Classifiers Advisory Council",
+    "Open Date": "2/28/2023",
+    "Description": "Soil Classifier",
+    "Appointed By": "Please contact the Department of Labor, Licensing and Regulation directly to apply",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t40c065.php"
+  },
+  {
     "Category": "Emergency Services & Security; Technology",
     "Board/Commission": "South Carolina 911 Advisory Committee",
     "Open Date": "6/30/2022",
@@ -6434,14 +6426,6 @@
   {
     "Category": "Arts & Museums; Education",
     "Board/Commission": "South Carolina Educational Television Commission",
-    "Open Date": "Vacant",
-    "Description": "4th Congressional District",
-    "Appointed By": "The Governor",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t59c007.php"
-  },
-  {
-    "Category": "Arts & Museums; Education",
-    "Board/Commission": "South Carolina Educational Television Commission",
     "Open Date": "6/23/2022",
     "Description": "5th Congressional District",
     "Appointed By": "The Governor",
@@ -7688,14 +7672,6 @@
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t31c013.php"
   },
   {
-    "Category": "Business & Finance; Building & Zoning; Real Estate, Development & Housing",
-    "Board/Commission": "South Carolina State Housing, Finance and Development Authority",
-    "Open Date": "8/15/2022",
-    "Description": "At-Large",
-    "Appointed By": "The Governor & confirmed by the Senate Labor, Commerce and Industry Committee",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t31c013.php"
-  },
-  {
     "Category": "Maritime; Transportation; Business & Finance; Criminal Justice & Legal; Engineering & Mechanics; Economic Development & Trade",
     "Board/Commission": "South Carolina State Ports Authority",
     "Open Date": "2/13/2023",
@@ -7938,8 +7914,24 @@
   {
     "Category": "Adult & Child Welfare; Health & Medicine",
     "Board/Commission": "Spinal Cord Injury Research Board",
+    "Open Date": "3/8/2023",
+    "Description": "Doctor, Staff/faculty of MUSC",
+    "Appointed By": "Recommended by the President of the MUSC to the Governor",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t44c038.php"
+  },
+  {
+    "Category": "Adult & Child Welfare; Health & Medicine",
+    "Board/Commission": "Spinal Cord Injury Research Board",
     "Open Date": "3/8/2022",
     "Description": "Doctor, Staff/faculty of MUSC",
+    "Appointed By": "Recommended by the President of the MUSC to the Governor",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t44c038.php"
+  },
+  {
+    "Category": "Adult & Child Welfare; Health & Medicine",
+    "Board/Commission": "Spinal Cord Injury Research Board",
+    "Open Date": "3/8/2023",
+    "Description": "Person/family with spinal injury",
     "Appointed By": "Recommended by the President of the MUSC to the Governor",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t44c038.php"
   },
@@ -9984,7 +9976,7 @@
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t59c117.php"
   },
   {
-    "Category": "",
+    "Category": "Education; Criminal Justice & Legal; Business & Finance",
     "Board/Commission": "University of South Carolina Board of Trustees",
     "Open Date": "6/30/2022",
     "Description": "12th Judicial Circuit",
@@ -9992,7 +9984,7 @@
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t59c117.php"
   },
   {
-    "Category": "",
+    "Category": "Education; Criminal Justice & Legal; Business & Finance",
     "Board/Commission": "University of South Carolina Board of Trustees",
     "Open Date": "6/30/2022",
     "Description": "13th Judicial Circuit",
@@ -10000,7 +9992,7 @@
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t59c117.php"
   },
   {
-    "Category": "",
+    "Category": "Education; Criminal Justice & Legal; Business & Finance",
     "Board/Commission": "University of South Carolina Board of Trustees",
     "Open Date": "6/30/2022",
     "Description": "1st Judicial Circuit",
@@ -10008,7 +10000,7 @@
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t59c117.php"
   },
   {
-    "Category": "",
+    "Category": "Education; Criminal Justice & Legal; Business & Finance",
     "Board/Commission": "University of South Carolina Board of Trustees",
     "Open Date": "6/30/2022",
     "Description": "3rd Judicial Circuit",
@@ -10016,7 +10008,7 @@
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t59c117.php"
   },
   {
-    "Category": "",
+    "Category": "Education; Criminal Justice & Legal; Business & Finance",
     "Board/Commission": "University of South Carolina Board of Trustees",
     "Open Date": "6/30/2022",
     "Description": "5th Judicial Circuit",
@@ -10024,7 +10016,7 @@
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t59c117.php"
   },
   {
-    "Category": "",
+    "Category": "Education; Criminal Justice & Legal; Business & Finance",
     "Board/Commission": "University of South Carolina Board of Trustees",
     "Open Date": "6/30/2022",
     "Description": "7th Judicial Circuit",
@@ -10032,10 +10024,18 @@
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t59c117.php"
   },
   {
-    "Category": "",
+    "Category": "Education; Criminal Justice & Legal; Business & Finance",
     "Board/Commission": "University of South Carolina Board of Trustees",
     "Open Date": "6/30/2022",
     "Description": "9th Judicial Circuit",
+    "Appointed By": "Legislature's College and University Trustee Screening Commission",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t59c117.php"
+  },
+  {
+    "Category": "Education; Criminal Justice & Legal; Business & Finance",
+    "Board/Commission": "University of South Carolina Board of Trustees",
+    "Open Date": "3/10/2023",
+    "Description": "At-Large",
     "Appointed By": "Legislature's College and University Trustee Screening Commission",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t59c117.php"
   },
