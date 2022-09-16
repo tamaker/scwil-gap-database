@@ -664,6 +664,30 @@
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t24c021.php"
   },
   {
+    "Category": "Criminal Justice & Legal; Adult & Child Welfare; Health & Medicine",
+    "Board/Commission": "Board of Probation, Parole and Pardon Services",
+    "Open Date": "3/15/2023",
+    "Description": "2nd Congressional District",
+    "Appointed By": "The Governor & confirmed by the Senate Corrections and Penology Committee",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t24c021.php"
+  },
+  {
+    "Category": "Criminal Justice & Legal; Adult & Child Welfare; Health & Medicine",
+    "Board/Commission": "Board of Probation, Parole and Pardon Services",
+    "Open Date": "3/15/2023",
+    "Description": "6th Congressional District",
+    "Appointed By": "The Governor & confirmed by the Senate Corrections and Penology Committee",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t24c021.php"
+  },
+  {
+    "Category": "Criminal Justice & Legal; Adult & Child Welfare; Health & Medicine",
+    "Board/Commission": "Board of Probation, Parole and Pardon Services",
+    "Open Date": "3/15/2023",
+    "Description": "7th Congressional District",
+    "Appointed By": "The Governor & confirmed by the Senate Corrections and Penology Committee",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t24c021.php"
+  },
+  {
     "Category": "Environment & Conservation; Professional",
     "Board/Commission": "Board of Registration for Foresters",
     "Open Date": "5/31/2021",
@@ -1660,14 +1684,6 @@
     "Board/Commission": "Coordinating Council for Workforce Development",
     "Open Date": "Vacant",
     "Description": "At-Large",
-    "Appointed By": "Please contact the Chair of the House Education and Public Works Committee directly to apply",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/sess124_2021-2022/bills/4766.htm"
-  },
-  {
-    "Category": "Workforce; Education; Business & Finance",
-    "Board/Commission": "Coordinating Council for Workforce Development",
-    "Open Date": "Vacant",
-    "Description": "At-Large",
     "Appointed By": "Please contact the House Minority Party Leader directly to apply",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/sess124_2021-2022/bills/4766.htm"
   },
@@ -2182,6 +2198,110 @@
     "Description": "Senate Finance Chair Appointee",
     "Appointed By": "Please contact the South Carolina Independent Schools Association directly to apply",
     "Governing Statute": "Governing Statute; http://www.scstatehouse.gov/sess121_2015-2016/appropriations2016/tap1b.htm#s109"
+  },
+  {
+    "Category": "Education; Workforce",
+    "Board/Commission": "Educator Recruitment and Retention Task Force",
+    "Open Date": "Vacant",
+    "Description": "Governor Appointee",
+    "Appointed By": "The Governor",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/sess124_2021-2022/appropriations2022/tap1b.htm#s1"
+  },
+  {
+    "Category": "Education; Workforce",
+    "Board/Commission": "Educator Recruitment and Retention Task Force",
+    "Open Date": "Vacant",
+    "Description": "Higher Education, Private",
+    "Appointed By": "Please contact the Commission on Higher Education directly to apply",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/sess124_2021-2022/appropriations2022/tap1b.htm#s1"
+  },
+  {
+    "Category": "Education; Workforce",
+    "Board/Commission": "Educator Recruitment and Retention Task Force",
+    "Open Date": "Vacant",
+    "Description": "Higher Education, Public",
+    "Appointed By": "Please contact the Commission on Higher Education directly to apply",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/sess124_2021-2022/appropriations2022/tap1b.htm#s1"
+  },
+  {
+    "Category": "Education; Workforce",
+    "Board/Commission": "Educator Recruitment and Retention Task Force",
+    "Open Date": "Vacant",
+    "Description": "House Ways and Means Appointee",
+    "Appointed By": "Please contact the Chair of the House Ways and Means Committee directly to apply",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/sess124_2021-2022/appropriations2022/tap1b.htm#s1"
+  },
+  {
+    "Category": "Education; Workforce",
+    "Board/Commission": "Educator Recruitment and Retention Task Force",
+    "Open Date": "Vacant",
+    "Description": "Participant, Teaching Fellows Porgram",
+    "Appointed By": "Please contact the Center for Educator Recruitment and Retention directly to apply",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/sess124_2021-2022/appropriations2022/tap1b.htm#s1"
+  },
+  {
+    "Category": "Education; Workforce",
+    "Board/Commission": "Educator Recruitment and Retention Task Force",
+    "Open Date": "Vacant",
+    "Description": "RFA Appointee",
+    "Appointed By": "Please contact the Chair of the Board of the Revenue and Fiscal Affairs Office directly to apply",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/sess124_2021-2022/appropriations2022/tap1b.htm#s1"
+  },
+  {
+    "Category": "Education; Workforce",
+    "Board/Commission": "Educator Recruitment and Retention Task Force",
+    "Open Date": "Vacant",
+    "Description": "SC Association of School Administrators",
+    "Appointed By": "Recommended by the South Carolina Association of School Administrators to the Governor",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/sess124_2021-2022/appropriations2022/tap1b.htm#s1"
+  },
+  {
+    "Category": "Education; Workforce",
+    "Board/Commission": "Educator Recruitment and Retention Task Force",
+    "Open Date": "Vacant",
+    "Description": "SC School Boards Association",
+    "Appointed By": "Recommended by the South Carolina School Boards Association to the Governor",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/sess124_2021-2022/appropriations2022/tap1b.htm#s1"
+  },
+  {
+    "Category": "Education; Workforce",
+    "Board/Commission": "Educator Recruitment and Retention Task Force",
+    "Open Date": "Vacant",
+    "Description": "SC Teach Representative",
+    "Appointed By": "Please contact the Dean of the College of Education of the University of South Carolina directly to apply",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/sess124_2021-2022/appropriations2022/tap1b.htm#s1"
+  },
+  {
+    "Category": "Education; Workforce",
+    "Board/Commission": "Educator Recruitment and Retention Task Force",
+    "Open Date": "Vacant",
+    "Description": "Senate Finance Appointee",
+    "Appointed By": "Please contact the Chair of the Senate Finance Committee directly to apply",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/sess124_2021-2022/appropriations2022/tap1b.htm#s1"
+  },
+  {
+    "Category": "Education; Workforce",
+    "Board/Commission": "Educator Recruitment and Retention Task Force",
+    "Open Date": "Vacant",
+    "Description": "Teacher, PSTA",
+    "Appointed By": "Please contact the Palmetto State Teachers Association directly to apply",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/sess124_2021-2022/appropriations2022/tap1b.htm#s1"
+  },
+  {
+    "Category": "Education; Workforce",
+    "Board/Commission": "Educator Recruitment and Retention Task Force",
+    "Open Date": "Vacant",
+    "Description": "Teacher, SCABSE",
+    "Appointed By": "Please contact the South Carolina Alliance of Black School Educators directly to apply",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/sess124_2021-2022/appropriations2022/tap1b.htm#s1"
+  },
+  {
+    "Category": "Education; Workforce",
+    "Board/Commission": "Educator Recruitment and Retention Task Force",
+    "Open Date": "Vacant",
+    "Description": "Teacher, SCEA",
+    "Appointed By": "Please contact the South Carolina Education Association directly to apply",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/sess124_2021-2022/appropriations2022/tap1b.htm#s1"
   },
   {
     "Category": "Business & Finance; Technology; Government; Insurance",
@@ -7298,7 +7418,7 @@
   {
     "Category": "Real Estate, Development & Housing; Business & Finance",
     "Board/Commission": "South Carolina Real Estate Appraisers Board",
-    "Open Date": "5/31/2018",
+    "Open Date": "Vacant",
     "Description": "General Public",
     "Appointed By": "The Governor & confirmed by the Senate Labor, Commerce and Industry Committee",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t40c060.php"
@@ -8274,7 +8394,7 @@
   {
     "Category": "Building & Zoning; Education; Professional",
     "Board/Commission": "State Board of Architectural Examiners",
-    "Open Date": "5/12/2017",
+    "Open Date": "5/17/2022",
     "Description": "Architect",
     "Appointed By": "The Governor",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t40c003.php"
@@ -8315,6 +8435,14 @@
     "Category": "Professional; Workforce",
     "Board/Commission": "State Board of Cosmetology",
     "Open Date": "Vacant",
+    "Description": "Cosmetologist",
+    "Appointed By": "The Governor & confirmed by the Senate Labor, Commerce and Industry Committee",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t40c013.php"
+  },
+  {
+    "Category": "Professional; Workforce",
+    "Board/Commission": "State Board of Cosmetology",
+    "Open Date": "3/20/2023",
     "Description": "Cosmetologist",
     "Appointed By": "The Governor & confirmed by the Senate Labor, Commerce and Industry Committee",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t40c013.php"
@@ -9197,22 +9325,6 @@
     "Open Date": "6/30/2018",
     "Description": "7th Congressional District",
     "Appointed By": "The Governor & confirmed by the Senate Judiciary Committee",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t01c013.php"
-  },
-  {
-    "Category": "Adult & Child Welfare",
-    "Board/Commission": "State Human Affairs Commission",
-    "Open Date": "6/30/2015",
-    "Description": "At-Large",
-    "Appointed By": "The Governor",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t01c013.php"
-  },
-  {
-    "Category": "Adult & Child Welfare",
-    "Board/Commission": "State Human Affairs Commission",
-    "Open Date": "6/30/2020",
-    "Description": "At-Large",
-    "Appointed By": "The Governor",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t01c013.php"
   },
   {
