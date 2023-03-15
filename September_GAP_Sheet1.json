@@ -1408,14 +1408,6 @@
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t17c003.php"
   },
   {
-    "Category": "Criminal Justice & Legal",
-    "Board/Commission": "Commission on Indigent Defense",
-    "Open Date": "3/4/2023",
-    "Description": "Retired Circuit Court Judge",
-    "Appointed By": "Please contact the Chief Justice of the South Carolina Supreme Court directly to apply",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t17c003.php"
-  },
-  {
     "Category": "Government",
     "Board/Commission": "Commission on Interstate Cooperation",
     "Open Date": "Vacant",
@@ -3312,38 +3304,6 @@
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t59c135.php"
   },
   {
-    "Category": "Education; Criminal Justice & Legal; Business & Finance",
-    "Board/Commission": "Lander University Board of Trustees",
-    "Open Date": "6/30/2022",
-    "Description": "At-Large",
-    "Appointed By": "Please contact the Legislature's College and University Trustee Screening Commission directly to apply.",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t59c135.php"
-  },
-  {
-    "Category": "Education; Criminal Justice & Legal; Business & Finance",
-    "Board/Commission": "Lander University Board of Trustees",
-    "Open Date": "6/30/2022",
-    "Description": "At-Large",
-    "Appointed By": "Please contact the Legislature's College and University Trustee Screening Commission directly to apply.",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t59c135.php"
-  },
-  {
-    "Category": "Education; Criminal Justice & Legal; Business & Finance",
-    "Board/Commission": "Lander University Board of Trustees",
-    "Open Date": "6/30/2022",
-    "Description": "At-Large",
-    "Appointed By": "Please contact the Legislature's College and University Trustee Screening Commission directly to apply.",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t59c135.php"
-  },
-  {
-    "Category": "Education; Criminal Justice & Legal; Business & Finance",
-    "Board/Commission": "Lander University Board of Trustees",
-    "Open Date": "6/30/2022",
-    "Description": "At-Large",
-    "Appointed By": "Please contact the Legislature's College and University Trustee Screening Commission directly to apply.",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t59c135.php"
-  },
-  {
     "Category": "Business & Finance; Government",
     "Board/Commission": "Legislative Audit Council",
     "Open Date": "6/30/2023",
@@ -4141,14 +4101,6 @@
     "Open Date": "Vacant",
     "Description": "Governor's Appointee",
     "Appointed By": "Please contact the Governor's office directly to apply. Nominees must be confirmed by the Senate Education Committee",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t51c013.php"
-  },
-  {
-    "Category": "Business & Finance; Economic Development & Trade; Recreation & Tourism; Local & Regional Affairs",
-    "Board/Commission": "Old Ninety Six Tourism Commission",
-    "Open Date": "8/11/2021",
-    "Description": "Abbeville",
-    "Appointed By": "Please contact the Abbeville County Legislative Delegation directly to apply",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t51c013.php"
   },
   {
@@ -5328,14 +5280,6 @@
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t40c065.php"
   },
   {
-    "Category": "Environment & Conservation; Agriculture",
-    "Board/Commission": "Soil Classifiers Advisory Council",
-    "Open Date": "2/28/2023",
-    "Description": "Soil Classifier",
-    "Appointed By": "Please contact the Department of Labor, Licensing and Regulation directly to apply",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t40c065.php"
-  },
-  {
     "Category": "Emergency Services & Security; Technology",
     "Board/Commission": "South Carolina 911 Advisory Committee",
     "Open Date": "6/30/2022",
@@ -5581,14 +5525,6 @@
     "Open Date": "Vacant",
     "Description": "Governor's Appointee",
     "Appointed By": "Please contact the Governor's office directly to apply.",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/sess122_2017-2018/prever/796_20180308.htm"
-  },
-  {
-    "Category": "Historical; Recreation & Tourism; Military & Veterans",
-    "Board/Commission": "South Carolina American Revolution Sestercentennial Commission",
-    "Open Date": "Vacant",
-    "Description": "President of the Senate Appointee",
-    "Appointed By": "Please contact the President of the South Carolina Senate directly to apply",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/sess122_2017-2018/prever/796_20180308.htm"
   },
   {
@@ -5958,6 +5894,30 @@
     "Description": "Residential Care Consumer",
     "Appointed By": "Please contact the Governor's office directly to apply. Nominees must be confirmed by the Senate Medical Affairs Committee",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t40c035.php"
+  },
+  {
+    "Category": "Professional; Health & Medicine",
+    "Board/Commission": "South Carolina Board of Occupational Therapy",
+    "Open Date": "9/30/2023",
+    "Description": "Lay Member",
+    "Appointed By": "Please contact the Governor's office directly to apply. Nominees must be confirmed by the Senate Medical Affairs Committee",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t40c036.php"
+  },
+  {
+    "Category": "Professional; Health & Medicine",
+    "Board/Commission": "South Carolina Board of Occupational Therapy",
+    "Open Date": "9/30/2023",
+    "Description": "Occupational Therapist",
+    "Appointed By": "Please contact the Governor's office directly to apply. Nominees must be confirmed by the Senate Medical Affairs Committee",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t40c036.php"
+  },
+  {
+    "Category": "Professional; Health & Medicine",
+    "Board/Commission": "South Carolina Board of Occupational Therapy",
+    "Open Date": "9/30/2023",
+    "Description": "Occupational Therapist",
+    "Appointed By": "Please contact the Governor's office directly to apply. Nominees must be confirmed by the Senate Medical Affairs Committee",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t40c036.php"
   },
   {
     "Category": "Professional; Health & Medicine",
@@ -6642,7 +6602,15 @@
   {
     "Category": "Disabilities; Adult & Child Welfare",
     "Board/Commission": "South Carolina Developmental Disabilities Council",
-    "Open Date": "9/30/2022",
+    "Open Date": "9/30/2023",
+    "Description": "Consumer",
+    "Appointed By": "Please contact the Governor's office directly to apply.",
+    "Governing Statute": "Governing Statute; https://dc.statelibrary.sc.gov/bitstream/handle/10827/1957/Executive_Order_2010-03.pdf?sequence=1&is"
+  },
+  {
+    "Category": "Disabilities; Adult & Child Welfare",
+    "Board/Commission": "South Carolina Developmental Disabilities Council",
+    "Open Date": "9/30/2023",
     "Description": "Consumer or Relative",
     "Appointed By": "Please contact the Governor's office directly to apply.",
     "Governing Statute": "Governing Statute; https://dc.statelibrary.sc.gov/bitstream/handle/10827/1957/Executive_Order_2010-03.pdf?sequence=1&is"
@@ -6651,6 +6619,22 @@
     "Category": "Disabilities; Adult & Child Welfare",
     "Board/Commission": "South Carolina Developmental Disabilities Council",
     "Open Date": "9/30/2022",
+    "Description": "Consumer or Relative",
+    "Appointed By": "Please contact the Governor's office directly to apply.",
+    "Governing Statute": "Governing Statute; https://dc.statelibrary.sc.gov/bitstream/handle/10827/1957/Executive_Order_2010-03.pdf?sequence=1&is"
+  },
+  {
+    "Category": "Disabilities; Adult & Child Welfare",
+    "Board/Commission": "South Carolina Developmental Disabilities Council",
+    "Open Date": "9/30/2023",
+    "Description": "Consumer or Relative",
+    "Appointed By": "Please contact the Governor's office directly to apply.",
+    "Governing Statute": "Governing Statute; https://dc.statelibrary.sc.gov/bitstream/handle/10827/1957/Executive_Order_2010-03.pdf?sequence=1&is"
+  },
+  {
+    "Category": "Disabilities; Adult & Child Welfare",
+    "Board/Commission": "South Carolina Developmental Disabilities Council",
+    "Open Date": "9/30/2023",
     "Description": "Consumer or Relative",
     "Appointed By": "Please contact the Governor's office directly to apply.",
     "Governing Statute": "Governing Statute; https://dc.statelibrary.sc.gov/bitstream/handle/10827/1957/Executive_Order_2010-03.pdf?sequence=1&is"
@@ -6659,6 +6643,14 @@
     "Category": "Disabilities; Adult & Child Welfare",
     "Board/Commission": "South Carolina Developmental Disabilities Council",
     "Open Date": "9/30/2020",
+    "Description": "Parent/Guardian",
+    "Appointed By": "Please contact the Governor's office directly to apply.",
+    "Governing Statute": "Governing Statute; https://dc.statelibrary.sc.gov/bitstream/handle/10827/1957/Executive_Order_2010-03.pdf?sequence=1&is"
+  },
+  {
+    "Category": "Disabilities; Adult & Child Welfare",
+    "Board/Commission": "South Carolina Developmental Disabilities Council",
+    "Open Date": "9/30/2023",
     "Description": "Parent/Guardian",
     "Appointed By": "Please contact the Governor's office directly to apply.",
     "Governing Statute": "Governing Statute; https://dc.statelibrary.sc.gov/bitstream/handle/10827/1957/Executive_Order_2010-03.pdf?sequence=1&is"
@@ -6701,22 +6693,6 @@
     "Open Date": "6/30/2022",
     "Description": "Business & Industry",
     "Appointed By": "Please contact the Chair of the Senate Education Committee directly to apply",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t59c006.php"
-  },
-  {
-    "Category": "Business & Finance; Education",
-    "Board/Commission": "South Carolina Education Oversight Committee",
-    "Open Date": "7/1/2022",
-    "Description": "Business & Industry",
-    "Appointed By": "Please contact the Governor's office directly to apply.",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t59c006.php"
-  },
-  {
-    "Category": "Business & Finance; Education",
-    "Board/Commission": "South Carolina Education Oversight Committee",
-    "Open Date": "6/30/2022",
-    "Description": "Public School Teacher/Principal",
-    "Appointed By": "Please contact the Governor's office directly to apply.",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t59c006.php"
   },
   {
@@ -6826,15 +6802,7 @@
   {
     "Category": "Emergency Services & Security",
     "Board/Commission": "South Carolina Firefighter Mobilization Oversight Committee",
-    "Open Date": "7/7/2020",
-    "Description": "Fire Prevention and Control",
-    "Appointed By": "Recommended by South Carolina State Firefighters' Association to the Governor",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t23c049.php"
-  },
-  {
-    "Category": "Emergency Services & Security",
-    "Board/Commission": "South Carolina Firefighter Mobilization Oversight Committee",
-    "Open Date": "7/7/2020",
+    "Open Date": "7/7/2023",
     "Description": "Fire Prevention and Control",
     "Appointed By": "Recommended by South Carolina State Firefighters' Association to the Governor",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t23c049.php"
@@ -6850,7 +6818,7 @@
   {
     "Category": "Emergency Services & Security",
     "Board/Commission": "South Carolina Firefighter Mobilization Oversight Committee",
-    "Open Date": "7/7/2021",
+    "Open Date": "7/7/2023",
     "Description": "Fire Prevention and Control",
     "Appointed By": "Recommended by South Carolina State Firefighters' Association to the Governor",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t23c049.php"
@@ -6858,18 +6826,18 @@
   {
     "Category": "Emergency Services & Security",
     "Board/Commission": "South Carolina Firefighter Mobilization Oversight Committee",
-    "Open Date": "7/7/2020",
+    "Open Date": "7/7/2023",
     "Description": "Fire Prevention and Control",
     "Appointed By": "Recommended by South Carolina State Firefighters' Association to the Governor",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t23c049.php"
   },
   {
-    "Category": "Emergency Services & Security",
-    "Board/Commission": "South Carolina Firefighter Mobilization Oversight Committee",
-    "Open Date": "7/7/2021",
-    "Description": "Fire Prevention and Control",
-    "Appointed By": "Recommended by South Carolina State Firefighters' Association to the Governor",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t23c049.php"
+    "Category": "Adult & Child Welfare; Business & Finance; Education; Health & Medicine",
+    "Board/Commission": "South Carolina First Steps to School Readiness Board of Trustees",
+    "Open Date": "9/18/2023",
+    "Description": "Business",
+    "Appointed By": "Please contact the Speaker of the House directly to apply",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t63c011.php"
   },
   {
     "Category": "Adult & Child Welfare; Business & Finance; Education; Health & Medicine",
@@ -6922,14 +6890,6 @@
   {
     "Category": "Adult & Child Welfare; Business & Finance; Education; Health & Medicine",
     "Board/Commission": "South Carolina First Steps to School Readiness Board of Trustees",
-    "Open Date": "2/20/2022",
-    "Description": "Medical or Childcare Provider",
-    "Appointed By": "Please contact the President of the South Carolina Senate directly to apply",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t63c011.php"
-  },
-  {
-    "Category": "Adult & Child Welfare; Business & Finance; Education; Health & Medicine",
-    "Board/Commission": "South Carolina First Steps to School Readiness Board of Trustees",
     "Open Date": "7/1/2017",
     "Description": "Medical Provider",
     "Appointed By": "Please contact the Governor's office directly to apply.",
@@ -6939,6 +6899,14 @@
     "Category": "Adult & Child Welfare; Business & Finance; Education; Health & Medicine",
     "Board/Commission": "South Carolina First Steps to School Readiness Board of Trustees",
     "Open Date": "11/30/2022",
+    "Description": "Parent of a Young Child",
+    "Appointed By": "Please contact the Governor's office directly to apply.",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t63c011.php"
+  },
+  {
+    "Category": "Adult & Child Welfare; Business & Finance; Education; Health & Medicine",
+    "Board/Commission": "South Carolina First Steps to School Readiness Board of Trustees",
+    "Open Date": "9/16/2023",
     "Description": "Parent of a Young Child",
     "Appointed By": "Please contact the Speaker of the House directly to apply",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t63c011.php"
@@ -7348,6 +7316,14 @@
     "Board/Commission": "South Carolina Lottery Commission",
     "Open Date": "7/1/2023",
     "Description": "At-Large",
+    "Appointed By": "Please contact the Governor's office directly to apply.",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t59c150.php"
+  },
+  {
+    "Category": "Business & Finance; Criminal Justice & Legal",
+    "Board/Commission": "South Carolina Lottery Commission",
+    "Open Date": "10/7/2023",
+    "Description": "At-Large",
     "Appointed By": "Please contact the Speaker of the House directly to apply",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t59c150.php"
   },
@@ -7474,8 +7450,32 @@
   {
     "Category": "Arts & Museums; Historical",
     "Board/Commission": "South Carolina Museum Commission",
+    "Open Date": "9/1/2023",
+    "Description": "1st Congressional District",
+    "Appointed By": "Please contact the Governor's office directly to apply.",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t60c013.php"
+  },
+  {
+    "Category": "Arts & Museums; Historical",
+    "Board/Commission": "South Carolina Museum Commission",
+    "Open Date": "9/1/2023",
+    "Description": "2nd Congressional District",
+    "Appointed By": "Please contact the Governor's office directly to apply.",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t60c013.php"
+  },
+  {
+    "Category": "Arts & Museums; Historical",
+    "Board/Commission": "South Carolina Museum Commission",
     "Open Date": "9/30/2021",
     "Description": "3rd Congressional District",
+    "Appointed By": "Please contact the Governor's office directly to apply.",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t60c013.php"
+  },
+  {
+    "Category": "Arts & Museums; Historical",
+    "Board/Commission": "South Carolina Museum Commission",
+    "Open Date": "9/1/2023",
+    "Description": "4th Congressional District",
     "Appointed By": "Please contact the Governor's office directly to apply.",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t60c013.php"
   },
@@ -7500,6 +7500,14 @@
     "Board/Commission": "South Carolina Museum Commission",
     "Open Date": "Vacant",
     "Description": "7th Congressional District",
+    "Appointed By": "Please contact the Governor's office directly to apply.",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t60c013.php"
+  },
+  {
+    "Category": "Arts & Museums; Historical",
+    "Board/Commission": "South Carolina Museum Commission",
+    "Open Date": "9/1/2023",
+    "Description": "At-Large",
     "Appointed By": "Please contact the Governor's office directly to apply.",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t60c013.php"
   },
@@ -7874,14 +7882,6 @@
   {
     "Category": "Real Estate, Development & Housing; Workforce",
     "Board/Commission": "South Carolina Real Estate Commission",
-    "Open Date": "1/1/2023",
-    "Description": "3rd Congressional District",
-    "Appointed By": "Please contact the 3rd Congressional District Legislative Delegation directly to apply",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t40c057.php"
-  },
-  {
-    "Category": "Real Estate, Development & Housing; Workforce",
-    "Board/Commission": "South Carolina Real Estate Commission",
     "Open Date": "3/29/2023",
     "Description": "4th Congressional District",
     "Appointed By": "Please contact the 4th Congressional District Legislative Delegation directly to apply",
@@ -7914,14 +7914,6 @@
   {
     "Category": "Government; Local & Regional Affairs; Business & Finance; Education; Environment & Conservation; Science",
     "Board/Commission": "South Carolina Recycling Market Development Advisory Council",
-    "Open Date": "12/2/2022",
-    "Description": "County Government",
-    "Appointed By": "Please contact the Governor's office directly to apply.",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t13c001.php"
-  },
-  {
-    "Category": "Government; Local & Regional Affairs; Business & Finance; Education; Environment & Conservation; Science",
-    "Board/Commission": "South Carolina Recycling Market Development Advisory Council",
     "Open Date": "5/6/2023",
     "Description": "Division of State Development",
     "Appointed By": "Please contact the Governor's office directly to apply.",
@@ -7948,14 +7940,6 @@
     "Board/Commission": "South Carolina Recycling Market Development Advisory Council",
     "Open Date": "12/2/2015",
     "Description": "Municipality",
-    "Appointed By": "Please contact the Governor's office directly to apply.",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t13c001.php"
-  },
-  {
-    "Category": "Government; Local & Regional Affairs; Business & Finance; Education; Environment & Conservation; Science",
-    "Board/Commission": "South Carolina Recycling Market Development Advisory Council",
-    "Open Date": "12/2/2015",
-    "Description": "Oil Industry",
     "Appointed By": "Please contact the Governor's office directly to apply.",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t13c001.php"
   },
@@ -7995,6 +7979,14 @@
     "Category": "Business & Finance; Education; Trade & Economic Development",
     "Board/Commission": "South Carolina Research Authority",
     "Open Date": "4/30/2023",
+    "Description": "At-Large",
+    "Appointed By": "Please contact the South Carolina Research Authority directly to apply",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t13c017.php"
+  },
+  {
+    "Category": "Business & Finance; Education; Trade & Economic Development",
+    "Board/Commission": "South Carolina Research Authority",
+    "Open Date": "10/2/2023",
     "Description": "At-Large",
     "Appointed By": "Please contact the South Carolina Research Authority directly to apply",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t13c017.php"
@@ -8186,14 +8178,6 @@
   {
     "Category": "Professional; Workforce",
     "Board/Commission": "South Carolina State Board of Funeral Service",
-    "Open Date": "8/15/2019",
-    "Description": "Funeral Director/Embalmer",
-    "Appointed By": "Please contact the Governor's office directly to apply.",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t40c019.php"
-  },
-  {
-    "Category": "Professional; Workforce",
-    "Board/Commission": "South Carolina State Board of Funeral Service",
     "Open Date": "8/15/2020",
     "Description": "Funeral Director/Embalmer",
     "Appointed By": "Please contact the Governor's office directly to apply.",
@@ -8219,22 +8203,6 @@
     "Category": "Business & Finance; Building & Zoning; Real Estate, Development & Housing",
     "Board/Commission": "South Carolina State Housing, Finance and Development Authority",
     "Open Date": "8/15/2018",
-    "Description": "At-Large",
-    "Appointed By": "Please contact the Governor's office directly to apply. Nominees must be confirmed by the Senate Labor, Commerce and Industry Committee",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t31c013.php"
-  },
-  {
-    "Category": "Business & Finance; Building & Zoning; Real Estate, Development & Housing",
-    "Board/Commission": "South Carolina State Housing, Finance and Development Authority",
-    "Open Date": "8/15/2018",
-    "Description": "At-Large",
-    "Appointed By": "Please contact the Governor's office directly to apply. Nominees must be confirmed by the Senate Labor, Commerce and Industry Committee",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t31c013.php"
-  },
-  {
-    "Category": "Business & Finance; Building & Zoning; Real Estate, Development & Housing",
-    "Board/Commission": "South Carolina State Housing, Finance and Development Authority",
-    "Open Date": "8/15/2021",
     "Description": "At-Large",
     "Appointed By": "Please contact the Governor's office directly to apply. Nominees must be confirmed by the Senate Labor, Commerce and Industry Committee",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t31c013.php"
@@ -8507,14 +8475,6 @@
     "Category": "Adult & Child Welfare; Business & Finance; Education",
     "Board/Commission": "State Advisory Committee on the Regulation of Child Care Facilities",
     "Open Date": "12/31/2016",
-    "Description": "Owner/Operator",
-    "Appointed By": "Please contact the Governor's office directly to apply.",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t63c013.php"
-  },
-  {
-    "Category": "Adult & Child Welfare; Business & Finance; Education",
-    "Board/Commission": "State Advisory Committee on the Regulation of Child Care Facilities",
-    "Open Date": "12/31/2014",
     "Description": "Owner/Operator",
     "Appointed By": "Please contact the Governor's office directly to apply.",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t63c013.php"
@@ -10298,6 +10258,14 @@
   {
     "Category": "Business & Finance; Workforce; Government",
     "Board/Commission": "State Workforce Development Board",
+    "Open Date": "2/8/2020",
+    "Description": "Labor Organization - Apprenticeship",
+    "Appointed By": "Please contact the Governor's office directly to apply.",
+    "Governing Statute": "Governing Statute; https://www.govinfo.gov/content/pkg/BILLS-113hr803enr/pdf/BILLS-113hr803enr.pdf"
+  },
+  {
+    "Category": "Business & Finance; Workforce; Government",
+    "Board/Commission": "State Workforce Development Board",
     "Open Date": "9/21/2018",
     "Description": "Partner, Education",
     "Appointed By": "Please contact the Governor's office directly to apply.",
@@ -10602,70 +10570,6 @@
   {
     "Category": "Education; Criminal Justice & Legal; Business & Finance",
     "Board/Commission": "University of South Carolina Board of Trustees",
-    "Open Date": "6/30/2022",
-    "Description": "11th Judicial Circuit",
-    "Appointed By": "Please contact the Legislature's College and University Trustee Screening Commission directly to apply.",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t59c117.php"
-  },
-  {
-    "Category": "Education; Criminal Justice & Legal; Business & Finance",
-    "Board/Commission": "University of South Carolina Board of Trustees",
-    "Open Date": "6/30/2022",
-    "Description": "12th Judicial Circuit",
-    "Appointed By": "Please contact the Legislature's College and University Trustee Screening Commission directly to apply.",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t59c117.php"
-  },
-  {
-    "Category": "Education; Criminal Justice & Legal; Business & Finance",
-    "Board/Commission": "University of South Carolina Board of Trustees",
-    "Open Date": "6/30/2022",
-    "Description": "13th Judicial Circuit",
-    "Appointed By": "Please contact the Legislature's College and University Trustee Screening Commission directly to apply.",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t59c117.php"
-  },
-  {
-    "Category": "Education; Criminal Justice & Legal; Business & Finance",
-    "Board/Commission": "University of South Carolina Board of Trustees",
-    "Open Date": "6/30/2022",
-    "Description": "1st Judicial Circuit",
-    "Appointed By": "Please contact the Legislature's College and University Trustee Screening Commission directly to apply.",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t59c117.php"
-  },
-  {
-    "Category": "Education; Criminal Justice & Legal; Business & Finance",
-    "Board/Commission": "University of South Carolina Board of Trustees",
-    "Open Date": "6/30/2022",
-    "Description": "3rd Judicial Circuit",
-    "Appointed By": "Please contact the Legislature's College and University Trustee Screening Commission directly to apply.",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t59c117.php"
-  },
-  {
-    "Category": "Education; Criminal Justice & Legal; Business & Finance",
-    "Board/Commission": "University of South Carolina Board of Trustees",
-    "Open Date": "6/30/2022",
-    "Description": "5th Judicial Circuit",
-    "Appointed By": "Please contact the Legislature's College and University Trustee Screening Commission directly to apply.",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t59c117.php"
-  },
-  {
-    "Category": "Education; Criminal Justice & Legal; Business & Finance",
-    "Board/Commission": "University of South Carolina Board of Trustees",
-    "Open Date": "6/30/2022",
-    "Description": "7th Judicial Circuit",
-    "Appointed By": "Please contact the Legislature's College and University Trustee Screening Commission directly to apply.",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t59c117.php"
-  },
-  {
-    "Category": "Education; Criminal Justice & Legal; Business & Finance",
-    "Board/Commission": "University of South Carolina Board of Trustees",
-    "Open Date": "6/30/2022",
-    "Description": "9th Judicial Circuit",
-    "Appointed By": "Please contact the Legislature's College and University Trustee Screening Commission directly to apply.",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t59c117.php"
-  },
-  {
-    "Category": "Education; Criminal Justice & Legal; Business & Finance",
-    "Board/Commission": "University of South Carolina Board of Trustees",
     "Open Date": "3/10/2023",
     "Description": "At-Large",
     "Appointed By": "Please contact the Legislature's College and University Trustee Screening Commission directly to apply.",
@@ -10816,14 +10720,6 @@
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t11c037.php"
   },
   {
-    "Category": "Fishing & Wildlife; Environment & Conservation; Recreation & Tourism",
-    "Board/Commission": "Waterfowl Advisory Committee",
-    "Open Date": "Vacant",
-    "Description": "Governor's Appointee",
-    "Appointed By": "Please contact the Governor's office directly to apply.",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/sess124_2021-2022/bills/4177.htm"
-  },
-  {
     "Category": "Education; Workforce; Adult & Child Welfare",
     "Board/Commission": "Wil Lou Gray Opportunity School Board of Trustees",
     "Open Date": "6/30/2023",
@@ -10843,22 +10739,6 @@
     "Category": "Education; Workforce; Adult & Child Welfare",
     "Board/Commission": "Wil Lou Gray Opportunity School Board of Trustees",
     "Open Date": "6/30/2023",
-    "Description": "At-Large",
-    "Appointed By": "Please contact the Legislature's College and University Trustee Screening Commission directly to apply.",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t59c051.php"
-  },
-  {
-    "Category": "Education; Workforce; Adult & Child Welfare",
-    "Board/Commission": "Wil Lou Gray Opportunity School Board of Trustees",
-    "Open Date": "6/30/2022",
-    "Description": "At-Large",
-    "Appointed By": "Please contact the Legislature's College and University Trustee Screening Commission directly to apply.",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t59c051.php"
-  },
-  {
-    "Category": "Education; Workforce; Adult & Child Welfare",
-    "Board/Commission": "Wil Lou Gray Opportunity School Board of Trustees",
-    "Open Date": "6/30/2022",
     "Description": "At-Large",
     "Appointed By": "Please contact the Legislature's College and University Trustee Screening Commission directly to apply.",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t59c051.php"
