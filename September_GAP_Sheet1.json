@@ -691,14 +691,6 @@
     "Category": "Criminal Justice & Legal; Adult & Child Welfare; Health & Medicine",
     "Board/Commission": "Board of Probation, Parole and Pardon Services",
     "Open Date": "3/15/2023",
-    "Description": "6th Congressional District",
-    "Appointed By": "Please contact the Governor's office directly to apply. Nominees must be confirmed by the Senate Corrections and Penology Committee",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t24c021.php"
-  },
-  {
-    "Category": "Criminal Justice & Legal; Adult & Child Welfare; Health & Medicine",
-    "Board/Commission": "Board of Probation, Parole and Pardon Services",
-    "Open Date": "3/15/2023",
     "Description": "7th Congressional District",
     "Appointed By": "Please contact the Governor's office directly to apply. Nominees must be confirmed by the Senate Corrections and Penology Committee",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t24c021.php"
@@ -932,14 +924,6 @@
     "Board/Commission": "Child Fatality Advisory Committee",
     "Open Date": "6/30/2018",
     "Description": "Forensic Pathologist",
-    "Appointed By": "Please contact the Governor's office directly to apply.",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t63c011.php"
-  },
-  {
-    "Category": "Adult & Child Welfare; Criminal Justice & Legal; Health & Medicine",
-    "Board/Commission": "Child Fatality Advisory Committee",
-    "Open Date": "6/30/2021",
-    "Description": "Pediatrician",
     "Appointed By": "Please contact the Governor's office directly to apply.",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t63c011.php"
   },
@@ -4226,7 +4210,7 @@
   {
     "Category": "Recreation & Tourism; Real Estate, Development & Housing; Local & Regional Affairs",
     "Board/Commission": "Olde English District Tourism Commission",
-    "Open Date": "6/30/2014",
+    "Open Date": "Vacant",
     "Description": "Kershaw County",
     "Appointed By": "Please contact Kershaw County Council directly to apply",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t51c013.php"
@@ -4475,14 +4459,6 @@
     "Category": "Building & Zoning; Local & Regional Affairs; Real Estate, Development & Housing",
     "Board/Commission": "Pee Dee Regional Airport Authority",
     "Open Date": "3/15/2016",
-    "Description": "Marion County Resident",
-    "Appointed By": "Recommended by the Marion County Council to the Governor",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t55c011.php"
-  },
-  {
-    "Category": "Building & Zoning; Local & Regional Affairs; Real Estate, Development & Housing",
-    "Board/Commission": "Pee Dee Regional Airport Authority",
-    "Open Date": "6/6/2018",
     "Description": "Marion County Resident",
     "Appointed By": "Recommended by the Marion County Council to the Governor",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t55c011.php"
@@ -5037,14 +5013,6 @@
     "Open Date": "Vacant",
     "Description": "Saltwater Recreational Fishing Community Representative",
     "Appointed By": "Please contact the Berkeley County Legislative Delegation directly to apply",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t50c005.php"
-  },
-  {
-    "Category": "Fishing & Wildlife; Environment & Conservation",
-    "Board/Commission": "Saltwater Recreational Fisheries Advisory Committee",
-    "Open Date": "6/30/2021",
-    "Description": "Saltwater Recreational Fishing Community Representative",
-    "Appointed By": "Please contact the Charleston County Legislative Delegation directly to apply",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t50c005.php"
   },
   {
@@ -5704,14 +5672,6 @@
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t59c005.php"
   },
   {
-    "Category": "Education",
-    "Board/Commission": "South Carolina Board of Education",
-    "Open Date": "Vacant",
-    "Description": "5th Judicial Circuit",
-    "Appointed By": "Please contact the Legislative Delegation for the 5th Judicial Circuit directly to apply",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t59c005.php"
-  },
-  {
     "Category": "Health & Medicine; Professional; Workforce",
     "Board/Commission": "South Carolina Board of Examiners in Opticianry",
     "Open Date": "5/19/2017",
@@ -6050,14 +6010,6 @@
   {
     "Category": "Disabilities",
     "Board/Commission": "South Carolina Commission for the Blind",
-    "Open Date": "5/19/2021",
-    "Description": "2nd Congressional District",
-    "Appointed By": "Please contact the Governor's office directly to apply. Nominees must be confirmed by the Senate Family and Veterans' Services Committee",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t43c025.php"
-  },
-  {
-    "Category": "Disabilities",
-    "Board/Commission": "South Carolina Commission for the Blind",
     "Open Date": "12/16/2022",
     "Description": "4th Congressional District",
     "Appointed By": "Please contact the Governor's office directly to apply. Nominees must be confirmed by the Senate Family and Veterans' Services Committee",
@@ -6282,7 +6234,7 @@
   {
     "Category": "Criminal Justice & Legal; Adult & Child Welfare",
     "Board/Commission": "South Carolina Commission on Prosecution Coordination",
-    "Open Date": "6/30/2022",
+    "Open Date": "Vacant",
     "Description": "Pretrial Intervention Program Director",
     "Appointed By": "Please contact the Governor's office directly to apply.",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t01c007.php"
@@ -6690,7 +6642,7 @@
   {
     "Category": "Business & Finance; Education",
     "Board/Commission": "South Carolina Education Oversight Committee",
-    "Open Date": "6/30/2022",
+    "Open Date": "Vacant",
     "Description": "Business & Industry",
     "Appointed By": "Please contact the Chair of the Senate Education Committee directly to apply",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t59c006.php"
@@ -6698,7 +6650,7 @@
   {
     "Category": "Business & Finance; Education",
     "Board/Commission": "South Carolina Education Oversight Committee",
-    "Open Date": "7/25/2022",
+    "Open Date": "Vacant",
     "Description": "Public School Teacher/Principal",
     "Appointed By": "Please contact the Chair of the House Education and Public Works Committee directly to apply",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t59c006.php"
@@ -7882,14 +7834,6 @@
   {
     "Category": "Real Estate, Development & Housing; Workforce",
     "Board/Commission": "South Carolina Real Estate Commission",
-    "Open Date": "3/29/2023",
-    "Description": "4th Congressional District",
-    "Appointed By": "Please contact the 4th Congressional District Legislative Delegation directly to apply",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t40c057.php"
-  },
-  {
-    "Category": "Real Estate, Development & Housing; Workforce",
-    "Board/Commission": "South Carolina Real Estate Commission",
     "Open Date": "5/24/2020",
     "Description": "7th Congressional District",
     "Appointed By": "Please contact the 7th Congressional District Legislative Delegation directly to apply",
@@ -7946,32 +7890,8 @@
   {
     "Category": "Government; Local & Regional Affairs; Business & Finance; Education; Environment & Conservation; Science",
     "Board/Commission": "South Carolina Recycling Market Development Advisory Council",
-    "Open Date": "1/31/2022",
-    "Description": "Plastics Industry",
-    "Appointed By": "Please contact the Governor's office directly to apply.",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t13c001.php"
-  },
-  {
-    "Category": "Government; Local & Regional Affairs; Business & Finance; Education; Environment & Conservation; Science",
-    "Board/Commission": "South Carolina Recycling Market Development Advisory Council",
     "Open Date": "5/20/2023",
     "Description": "Recycling Industry",
-    "Appointed By": "Please contact the Governor's office directly to apply.",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t13c001.php"
-  },
-  {
-    "Category": "Government; Local & Regional Affairs; Business & Finance; Education; Environment & Conservation; Science",
-    "Board/Commission": "South Carolina Recycling Market Development Advisory Council",
-    "Open Date": "12/1/2022",
-    "Description": "Scrap Metal Industry",
-    "Appointed By": "Please contact the Governor's office directly to apply.",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t13c001.php"
-  },
-  {
-    "Category": "Government; Local & Regional Affairs; Business & Finance; Education; Environment & Conservation; Science",
-    "Board/Commission": "South Carolina Recycling Market Development Advisory Council",
-    "Open Date": "12/31/2022",
-    "Description": "Solid Waste Industry",
     "Appointed By": "Please contact the Governor's office directly to apply.",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t13c001.php"
   },
