@@ -1474,9 +1474,17 @@
   {
     "Category": "Criminal Justice & Legal",
     "Board/Commission": "Commission on Indigent Defense",
-    "Open Date": "7/1/2023",
-    "Description": "Practices Criminal Defense Law",
-    "Appointed By": "Please contact the Chief Justice of the South Carolina Supreme Court directly to apply",
+    "Open Date": "1/10/2024",
+    "Description": "Judicial Region 1, Public Defender",
+    "Appointed By": "Recommended by the South Carolina Public Defender Association to the Governor",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t17c003.php"
+  },
+  {
+    "Category": "Criminal Justice & Legal",
+    "Board/Commission": "Commission on Indigent Defense",
+    "Open Date": "1/10/2024",
+    "Description": "Judicial Region 1, Public Defender",
+    "Appointed By": "Recommended by the South Carolina Public Defender Association to the Governor",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t17c003.php"
   },
   {
@@ -1484,7 +1492,15 @@
     "Board/Commission": "Commission on Indigent Defense",
     "Open Date": "7/1/2023",
     "Description": "Practices Criminal Defense Law",
-    "Appointed By": "Please contact the Chief Justice of the South Carolina Supreme Court directly to apply",
+    "Appointed By": "Recommended by the South Carolina Bar to the Governor",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t17c003.php"
+  },
+  {
+    "Category": "Criminal Justice & Legal",
+    "Board/Commission": "Commission on Indigent Defense",
+    "Open Date": "7/1/2023",
+    "Description": "Practices Criminal Defense Law",
+    "Appointed By": "Recommended by the South Carolina Bar to the Governor",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t17c003.php"
   },
   {
@@ -1492,7 +1508,7 @@
     "Board/Commission": "Commission on Indigent Defense",
     "Open Date": "7/1/2023",
     "Description": "Practices Family Law",
-    "Appointed By": "Please contact the Chief Justice of the South Carolina Supreme Court directly to apply",
+    "Appointed By": "Recommended by the South Carolina Bar to the Governor",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t17c003.php"
   },
   {
@@ -1500,7 +1516,7 @@
     "Board/Commission": "Commission on Indigent Defense",
     "Open Date": "7/1/2023",
     "Description": "Practices Neither Family or Defense Law",
-    "Appointed By": "Please contact the Chief Justice of the South Carolina Supreme Court directly to apply",
+    "Appointed By": "Recommended by the South Carolina Bar to the Governor",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t17c003.php"
   },
   {
@@ -1508,7 +1524,7 @@
     "Board/Commission": "Commission on Indigent Defense",
     "Open Date": "7/1/2023",
     "Description": "Practices Neither Family or Defense Law",
-    "Appointed By": "Please contact the Chief Justice of the South Carolina Supreme Court directly to apply",
+    "Appointed By": "Recommended by the South Carolina Bar to the Governor",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t17c003.php"
   },
   {
@@ -2226,7 +2242,7 @@
   {
     "Category": "Transportation",
     "Board/Commission": "Department of Transportation Commission",
-    "Open Date": "2/15/2022",
+    "Open Date": "Vacant",
     "Description": "At-Large",
     "Appointed By": "Please contact the Governor's office directly to apply. Nominees must be confirmed by the Senate Transportation Committee",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t57c001.php"
@@ -2306,14 +2322,6 @@
   {
     "Category": "Adult & Child Welfare; Disabilities",
     "Board/Commission": "Disability Rights South Carolina",
-    "Open Date": "12/5/2023",
-    "Description": "Pee Dee Representative",
-    "Appointed By": "Please contact the Disability Rights of South Carolina Board directly to apply",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t43c033.php"
-  },
-  {
-    "Category": "Adult & Child Welfare; Disabilities",
-    "Board/Commission": "Disability Rights South Carolina",
     "Open Date": "Vacant",
     "Description": "Pee Dee Representative",
     "Appointed By": "Please contact the Disability Rights of South Carolina Board directly to apply",
@@ -2325,6 +2333,14 @@
     "Open Date": "5/31/2023",
     "Description": "Pee Dee Representative",
     "Appointed By": "Please contact the Governor's office directly to apply.",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t43c033.php"
+  },
+  {
+    "Category": "Adult & Child Welfare; Disabilities",
+    "Board/Commission": "Disability Rights South Carolina",
+    "Open Date": "12/5/2023",
+    "Description": "Piedmont Representative",
+    "Appointed By": "Please contact the Disability Rights of South Carolina Board directly to apply",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t43c033.php"
   },
   {
@@ -2454,110 +2470,6 @@
     "Description": "Senate Finance Chair Appointee",
     "Appointed By": "Please contact the South Carolina Independent Schools Association directly to apply",
     "Governing Statute": "Governing Statute; http://www.scstatehouse.gov/sess121_2015-2016/appropriations2016/tap1b.htm#s109"
-  },
-  {
-    "Category": "Education; Workforce",
-    "Board/Commission": "Educator Recruitment and Retention Task Force",
-    "Open Date": "Vacant",
-    "Description": "Governor Appointee",
-    "Appointed By": "Please contact the Governor's office directly to apply.",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/sess124_2021-2022/appropriations2022/tap1b.htm#s1"
-  },
-  {
-    "Category": "Education; Workforce",
-    "Board/Commission": "Educator Recruitment and Retention Task Force",
-    "Open Date": "Vacant",
-    "Description": "Higher Education, Private",
-    "Appointed By": "Please contact the Commission on Higher Education directly to apply",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/sess124_2021-2022/appropriations2022/tap1b.htm#s1"
-  },
-  {
-    "Category": "Education; Workforce",
-    "Board/Commission": "Educator Recruitment and Retention Task Force",
-    "Open Date": "Vacant",
-    "Description": "Higher Education, Public",
-    "Appointed By": "Please contact the Commission on Higher Education directly to apply",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/sess124_2021-2022/appropriations2022/tap1b.htm#s1"
-  },
-  {
-    "Category": "Education; Workforce",
-    "Board/Commission": "Educator Recruitment and Retention Task Force",
-    "Open Date": "Vacant",
-    "Description": "House Ways and Means Appointee",
-    "Appointed By": "Please contact the Chair of the House Ways and Means Committee directly to apply",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/sess124_2021-2022/appropriations2022/tap1b.htm#s1"
-  },
-  {
-    "Category": "Education; Workforce",
-    "Board/Commission": "Educator Recruitment and Retention Task Force",
-    "Open Date": "Vacant",
-    "Description": "Participant, Teaching Fellows Program",
-    "Appointed By": "Please contact the Center for Educator Recruitment and Retention directly to apply",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/sess124_2021-2022/appropriations2022/tap1b.htm#s1"
-  },
-  {
-    "Category": "Education; Workforce",
-    "Board/Commission": "Educator Recruitment and Retention Task Force",
-    "Open Date": "Vacant",
-    "Description": "RFA Appointee",
-    "Appointed By": "Please contact the Chair of the Board of the Revenue and Fiscal Affairs Office directly to apply",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/sess124_2021-2022/appropriations2022/tap1b.htm#s1"
-  },
-  {
-    "Category": "Education; Workforce",
-    "Board/Commission": "Educator Recruitment and Retention Task Force",
-    "Open Date": "Vacant",
-    "Description": "SC Association of School Administrators",
-    "Appointed By": "Recommended by the South Carolina Association of School Administrators to the Governor",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/sess124_2021-2022/appropriations2022/tap1b.htm#s1"
-  },
-  {
-    "Category": "Education; Workforce",
-    "Board/Commission": "Educator Recruitment and Retention Task Force",
-    "Open Date": "Vacant",
-    "Description": "SC School Boards Association",
-    "Appointed By": "Recommended by the South Carolina School Boards Association to the Governor",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/sess124_2021-2022/appropriations2022/tap1b.htm#s1"
-  },
-  {
-    "Category": "Education; Workforce",
-    "Board/Commission": "Educator Recruitment and Retention Task Force",
-    "Open Date": "Vacant",
-    "Description": "SC Teach Representative",
-    "Appointed By": "Please contact the Dean of the College of Education of the University of South Carolina directly to apply",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/sess124_2021-2022/appropriations2022/tap1b.htm#s1"
-  },
-  {
-    "Category": "Education; Workforce",
-    "Board/Commission": "Educator Recruitment and Retention Task Force",
-    "Open Date": "Vacant",
-    "Description": "Senate Finance Appointee",
-    "Appointed By": "Please contact the Chair of the Senate Finance Committee directly to apply",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/sess124_2021-2022/appropriations2022/tap1b.htm#s1"
-  },
-  {
-    "Category": "Education; Workforce",
-    "Board/Commission": "Educator Recruitment and Retention Task Force",
-    "Open Date": "Vacant",
-    "Description": "Teacher, PSTA",
-    "Appointed By": "Please contact the Palmetto State Teachers Association directly to apply",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/sess124_2021-2022/appropriations2022/tap1b.htm#s1"
-  },
-  {
-    "Category": "Education; Workforce",
-    "Board/Commission": "Educator Recruitment and Retention Task Force",
-    "Open Date": "Vacant",
-    "Description": "Teacher, SCABSE",
-    "Appointed By": "Please contact the South Carolina Alliance of Black School Educators directly to apply",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/sess124_2021-2022/appropriations2022/tap1b.htm#s1"
-  },
-  {
-    "Category": "Education; Workforce",
-    "Board/Commission": "Educator Recruitment and Retention Task Force",
-    "Open Date": "Vacant",
-    "Description": "Teacher, SCEA",
-    "Appointed By": "Please contact the South Carolina Education Association directly to apply",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/sess124_2021-2022/appropriations2022/tap1b.htm#s1"
   },
   {
     "Category": "Business & Finance; Technology; Government; Insurance",
@@ -2907,6 +2819,46 @@
     "Category": "Fishing & Wildlife; Recreation & Tourism; Environment & Conservation",
     "Board/Commission": "Governor's Cup Billfishing Series Advisory Board of Directors",
     "Open Date": "12/30/2021",
+    "Description": "At-Large",
+    "Appointed By": "Please contact the Board of the Department of Natural Resources directly to apply",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t01c030.php"
+  },
+  {
+    "Category": "Fishing & Wildlife; Recreation & Tourism; Environment & Conservation",
+    "Board/Commission": "Governor's Cup Billfishing Series Advisory Board of Directors",
+    "Open Date": "12/30/2023",
+    "Description": "At-Large",
+    "Appointed By": "Please contact the Board of the Department of Natural Resources directly to apply",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t01c030.php"
+  },
+  {
+    "Category": "Fishing & Wildlife; Recreation & Tourism; Environment & Conservation",
+    "Board/Commission": "Governor's Cup Billfishing Series Advisory Board of Directors",
+    "Open Date": "12/30/2023",
+    "Description": "At-Large",
+    "Appointed By": "Please contact the Board of the Department of Natural Resources directly to apply",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t01c030.php"
+  },
+  {
+    "Category": "Fishing & Wildlife; Recreation & Tourism; Environment & Conservation",
+    "Board/Commission": "Governor's Cup Billfishing Series Advisory Board of Directors",
+    "Open Date": "12/30/2023",
+    "Description": "At-Large",
+    "Appointed By": "Please contact the Board of the Department of Natural Resources directly to apply",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t01c030.php"
+  },
+  {
+    "Category": "Fishing & Wildlife; Recreation & Tourism; Environment & Conservation",
+    "Board/Commission": "Governor's Cup Billfishing Series Advisory Board of Directors",
+    "Open Date": "12/30/2023",
+    "Description": "At-Large",
+    "Appointed By": "Please contact the Board of the Department of Natural Resources directly to apply",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t01c030.php"
+  },
+  {
+    "Category": "Fishing & Wildlife; Recreation & Tourism; Environment & Conservation",
+    "Board/Commission": "Governor's Cup Billfishing Series Advisory Board of Directors",
+    "Open Date": "12/30/2023",
     "Description": "At-Large",
     "Appointed By": "Please contact the Board of the Department of Natural Resources directly to apply",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t01c030.php"
@@ -3314,7 +3266,7 @@
   {
     "Category": "Adult & Child Welfare; Criminal Justice & Legal",
     "Board/Commission": "Juvenile Parole Board",
-    "Open Date": "6/30/2023",
+    "Open Date": "Nominee pending confirmation",
     "Description": "At-Large",
     "Appointed By": "Please contact the Governor's office directly to apply. Nominees must be confirmed by the Senate Judiciary Committee",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t63c019.php"
@@ -3338,7 +3290,15 @@
   {
     "Category": "Adult & Child Welfare; Criminal Justice & Legal",
     "Board/Commission": "Juvenile Parole Board",
-    "Open Date": "6/30/2022",
+    "Open Date": "6/30/2023",
+    "Description": "At-Large",
+    "Appointed By": "Please contact the Governor's office directly to apply. Nominees must be confirmed by the Senate Judiciary Committee",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t63c019.php"
+  },
+  {
+    "Category": "Adult & Child Welfare; Criminal Justice & Legal",
+    "Board/Commission": "Juvenile Parole Board",
+    "Open Date": "Nominee pending confirmation",
     "Description": "At-Large",
     "Appointed By": "Please contact the Governor's office directly to apply. Nominees must be confirmed by the Senate Judiciary Committee",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t63c019.php"
@@ -4221,14 +4181,6 @@
     "Open Date": "7/9/2021",
     "Description": "Laurens",
     "Appointed By": "Please contact the Laurens County Legislative Delegation directly to apply",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t51c013.php"
-  },
-  {
-    "Category": "Business & Finance; Economic Development & Trade; Recreation & Tourism; Local & Regional Affairs",
-    "Board/Commission": "Old Ninety Six Tourism Commission",
-    "Open Date": "7/9/2021",
-    "Description": "McCormick",
-    "Appointed By": "Please contact the McCormick County Legislative Delegation directly to apply",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t51c013.php"
   },
   {
@@ -5338,6 +5290,38 @@
   {
     "Category": "Business & Finance",
     "Board/Commission": "Small Business Regulatory Review Committee",
+    "Open Date": "12/31/2023",
+    "Description": "At-Large",
+    "Appointed By": "Please contact the Speaker of the House directly to apply",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t01c023.php"
+  },
+  {
+    "Category": "Business & Finance",
+    "Board/Commission": "Small Business Regulatory Review Committee",
+    "Open Date": "12/31/2023",
+    "Description": "At-Large",
+    "Appointed By": "Please contact the Speaker of the House directly to apply",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t01c023.php"
+  },
+  {
+    "Category": "Business & Finance",
+    "Board/Commission": "Small Business Regulatory Review Committee",
+    "Open Date": "12/31/2023",
+    "Description": "At-Large",
+    "Appointed By": "Please contact the Speaker of the House directly to apply",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t01c023.php"
+  },
+  {
+    "Category": "Business & Finance",
+    "Board/Commission": "Small Business Regulatory Review Committee",
+    "Open Date": "12/31/2023",
+    "Description": "At-Large",
+    "Appointed By": "Please contact the President of the South Carolina Senate directly to apply",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t01c023.php"
+  },
+  {
+    "Category": "Business & Finance",
+    "Board/Commission": "Small Business Regulatory Review Committee",
     "Open Date": "12/31/2017",
     "Description": "At-Large",
     "Appointed By": "Please contact the President of the South Carolina Senate directly to apply",
@@ -5546,7 +5530,39 @@
   {
     "Category": "Historical; Real Estate, Development & Housing; Education",
     "Board/Commission": "South Carolina African American Heritage Commission",
+    "Open Date": "12/30/2023",
+    "Description": "At-Large",
+    "Appointed By": "Please contact the South Carolina Commission of Archives and History directly to apply",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t60c011.php"
+  },
+  {
+    "Category": "Historical; Real Estate, Development & Housing; Education",
+    "Board/Commission": "South Carolina African American Heritage Commission",
     "Open Date": "12/30/2022",
+    "Description": "At-Large",
+    "Appointed By": "Please contact the South Carolina Commission of Archives and History directly to apply",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t60c011.php"
+  },
+  {
+    "Category": "Historical; Real Estate, Development & Housing; Education",
+    "Board/Commission": "South Carolina African American Heritage Commission",
+    "Open Date": "12/30/2023",
+    "Description": "At-Large",
+    "Appointed By": "Please contact the South Carolina Commission of Archives and History directly to apply",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t60c011.php"
+  },
+  {
+    "Category": "Historical; Real Estate, Development & Housing; Education",
+    "Board/Commission": "South Carolina African American Heritage Commission",
+    "Open Date": "12/30/2023",
+    "Description": "At-Large",
+    "Appointed By": "Please contact the South Carolina Commission of Archives and History directly to apply",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t60c011.php"
+  },
+  {
+    "Category": "Historical; Real Estate, Development & Housing; Education",
+    "Board/Commission": "South Carolina African American Heritage Commission",
+    "Open Date": "12/30/2023",
     "Description": "At-Large",
     "Appointed By": "Please contact the South Carolina Commission of Archives and History directly to apply",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t60c011.php"
@@ -5723,14 +5739,6 @@
     "Category": "Health & Medicine; Professional",
     "Board/Commission": "South Carolina Board of Chiropractic Examiners",
     "Open Date": "6/30/2022",
-    "Description": "3rd Congressional District",
-    "Appointed By": "Please contact the South Carolina Board of Chiropractic Examiners directly to apply",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t40c009.php"
-  },
-  {
-    "Category": "Health & Medicine; Professional",
-    "Board/Commission": "South Carolina Board of Chiropractic Examiners",
-    "Open Date": "6/30/2022",
     "Description": "5th Congressional District",
     "Appointed By": "Please contact the South Carolina Board of Chiropractic Examiners directly to apply",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t40c009.php"
@@ -5754,6 +5762,22 @@
   {
     "Category": "Health & Medicine; Professional; Workforce",
     "Board/Commission": "South Carolina Board of Dentistry",
+    "Open Date": "12/31/2023",
+    "Description": "Dentist, 2nd Congressional District",
+    "Appointed By": "Please contact the South Carolina Board of Dentistry directly to apply.",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t40c015.php"
+  },
+  {
+    "Category": "Health & Medicine; Professional; Workforce",
+    "Board/Commission": "South Carolina Board of Dentistry",
+    "Open Date": "12/31/2023",
+    "Description": "Dentist, 3rd Congressional District",
+    "Appointed By": "Please contact the South Carolina Board of Dentistry directly to apply.",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t40c015.php"
+  },
+  {
+    "Category": "Health & Medicine; Professional; Workforce",
+    "Board/Commission": "South Carolina Board of Dentistry",
     "Open Date": "12/31/2018",
     "Description": "Dentist, At-Large",
     "Appointed By": "Please contact the Governor's office directly to apply.",
@@ -5770,9 +5794,33 @@
   {
     "Category": "Education",
     "Board/Commission": "South Carolina Board of Education",
-    "Open Date": "12/31/2022",
-    "Description": "4th Judicial Circuit",
-    "Appointed By": "Please contact the Legislative Delegation for the 4th Judicial Circuit directly to apply",
+    "Open Date": "12/31/2023",
+    "Description": "13th Judicial Circuit",
+    "Appointed By": "Please contact the Legislative Delegation for the 13th Judicial Circuit directly to apply",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t59c005.php"
+  },
+  {
+    "Category": "Education",
+    "Board/Commission": "South Carolina Board of Education",
+    "Open Date": "12/31/2023",
+    "Description": "15th Judicial Circuit",
+    "Appointed By": "Please contact the Legislative Delegation for the 15th Judicial Circuit directly to apply",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t59c005.php"
+  },
+  {
+    "Category": "Education",
+    "Board/Commission": "South Carolina Board of Education",
+    "Open Date": "12/31/2023",
+    "Description": "2nd Judicial Circuit",
+    "Appointed By": "Please contact the Legislative Delegation for the 2nd Judicial Circuit directly to apply",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t59c005.php"
+  },
+  {
+    "Category": "Education",
+    "Board/Commission": "South Carolina Board of Education",
+    "Open Date": "1/1/2024",
+    "Description": "3rd Judicial Circuit",
+    "Appointed By": "Please contact the Legislative Delegation for the 3rd Judicial Circuit directly to apply",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t59c005.php"
   },
   {
@@ -6066,6 +6114,22 @@
   {
     "Category": "Professional; Building & Zoning; Engineering & Mechanics; Government; Disabilities; Workforce",
     "Board/Commission": "South Carolina Building Codes Council",
+    "Open Date": "1/1/2024",
+    "Description": "Mechanical or Gas Industry Representative",
+    "Appointed By": "Recommended by the Mechanical Contractors Association of South Carolina and appointed by the Governor",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t06c009.php"
+  },
+  {
+    "Category": "Professional; Building & Zoning; Engineering & Mechanics; Government; Disabilities; Workforce",
+    "Board/Commission": "South Carolina Building Codes Council",
+    "Open Date": "1/1/2024",
+    "Description": "Modular Building Industry Representative",
+    "Appointed By": "Recommended by the Manufactured Housing Institute of South Carolina and appointed by the Governor",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t06c009.php"
+  },
+  {
+    "Category": "Professional; Building & Zoning; Engineering & Mechanics; Government; Disabilities; Workforce",
+    "Board/Commission": "South Carolina Building Codes Council",
     "Open Date": "1/1/2018",
     "Description": "Municipal Official",
     "Appointed By": "Please contact the Governor's office directly to apply.",
@@ -6196,14 +6260,6 @@
     "Board/Commission": "South Carolina Commission on Higher Education",
     "Open Date": "7/1/2020",
     "Description": "4 Year Public Institution of Higher Learning",
-    "Appointed By": "Please contact the Governor's office directly to apply. Nominees must be confirmed by the Senate Education Committee",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t59c103.php"
-  },
-  {
-    "Category": "Education; Business & Finance",
-    "Board/Commission": "South Carolina Commission on Higher Education",
-    "Open Date": "6/30/2020",
-    "Description": "Independent College",
     "Appointed By": "Please contact the Governor's office directly to apply. Nominees must be confirmed by the Senate Education Committee",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t59c103.php"
   },
@@ -6502,6 +6558,22 @@
     "Description": "At-Large",
     "Appointed By": "Please contact the Speaker of the House directly to apply",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t01c029.php"
+  },
+  {
+    "Category": "Criminal Justice & Legal; Health & Medicine; Adult & Child Welfare",
+    "Board/Commission": "South Carolina Crime Victim Advisory Board",
+    "Open Date": "9/6/2023",
+    "Description": "At-Large",
+    "Appointed By": "Please contact the Attorney General directly to apply",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t16c003.php#:~:text=throughout%20the%20section.-,SECTION%2016%2D3%2D1160.,-South%20Carolina%20Crime"
+  },
+  {
+    "Category": "Criminal Justice & Legal; Health & Medicine; Adult & Child Welfare",
+    "Board/Commission": "South Carolina Crime Victim Advisory Board",
+    "Open Date": "9/26/2023",
+    "Description": "Attorney",
+    "Appointed By": "Please contact the Attorney General directly to apply",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t16c003.php#:~:text=throughout%20the%20section.-,SECTION%2016%2D3%2D1160.,-South%20Carolina%20Crime"
   },
   {
     "Category": "Health & Medicine; Science; Professional",
@@ -7298,14 +7370,6 @@
   {
     "Category": "Business & Finance; Economic Development & Trade; Real Estate, Development & Housing",
     "Board/Commission": "South Carolina Jobs-Economic Development Authority",
-    "Open Date": "7/27/2023",
-    "Description": "4th Congressional District",
-    "Appointed By": "Please contact the Governor's office directly to apply. Nominees must be confirmed by the Senate Labor, Commerce and Industry Committee",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t41c043.php"
-  },
-  {
-    "Category": "Business & Finance; Economic Development & Trade; Real Estate, Development & Housing",
-    "Board/Commission": "South Carolina Jobs-Economic Development Authority",
     "Open Date": "7/12/2018",
     "Description": "5th Congressional District",
     "Appointed By": "Please contact the Governor's office directly to apply. Nominees must be confirmed by the Senate Labor, Commerce and Industry Committee",
@@ -7396,6 +7460,62 @@
     "Board/Commission": "South Carolina Medical Malpractice Association",
     "Open Date": "Vacant",
     "Description": "Consumer",
+    "Appointed By": "Please contact the Governor's office directly to apply.",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t38c079.php"
+  },
+  {
+    "Category": "Health & Medicine; Insurance",
+    "Board/Commission": "South Carolina Medical Malpractice Association",
+    "Open Date": "1/1/2024",
+    "Description": "Consumer",
+    "Appointed By": "Please contact the Governor's office directly to apply.",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t38c079.php"
+  },
+  {
+    "Category": "Health & Medicine; Insurance",
+    "Board/Commission": "South Carolina Medical Malpractice Association",
+    "Open Date": "1/1/2024",
+    "Description": "Independent Insurance Agent/Broker",
+    "Appointed By": "Please contact the Governor's office directly to apply.",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t38c079.php"
+  },
+  {
+    "Category": "Health & Medicine; Insurance",
+    "Board/Commission": "South Carolina Medical Malpractice Association",
+    "Open Date": "1/1/2024",
+    "Description": "Medical Malpractice Insurance Industry",
+    "Appointed By": "Please contact the Governor's office directly to apply.",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t38c079.php"
+  },
+  {
+    "Category": "Health & Medicine; Insurance",
+    "Board/Commission": "South Carolina Medical Malpractice Association",
+    "Open Date": "1/1/2024",
+    "Description": "Medical Malpractice Insurance Industry",
+    "Appointed By": "Please contact the Governor's office directly to apply.",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t38c079.php"
+  },
+  {
+    "Category": "Health & Medicine; Insurance",
+    "Board/Commission": "South Carolina Medical Malpractice Association",
+    "Open Date": "1/1/2024",
+    "Description": "Medical Malpractice Insurance Industry",
+    "Appointed By": "Please contact the Governor's office directly to apply.",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t38c079.php"
+  },
+  {
+    "Category": "Health & Medicine; Insurance",
+    "Board/Commission": "South Carolina Medical Malpractice Association",
+    "Open Date": "1/1/2024",
+    "Description": "Medical Provider",
+    "Appointed By": "Please contact the Governor's office directly to apply.",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t38c079.php"
+  },
+  {
+    "Category": "Health & Medicine; Insurance",
+    "Board/Commission": "South Carolina Medical Malpractice Association",
+    "Open Date": "1/1/2024",
+    "Description": "Medical Provider",
     "Appointed By": "Please contact the Governor's office directly to apply.",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t38c079.php"
   },
@@ -7762,41 +7882,25 @@
   {
     "Category": "Engineering & Mechanics; Local & Regional Affairs",
     "Board/Commission": "South Carolina Public Service Authority Board of Directors",
-    "Open Date": "1/1/2023",
-    "Description": "1st Congressional District",
-    "Appointed By": "Recommended by the State Regulation of Public Utilities Review Committee to Please contact the Governor's office directly to apply. Nominees must be confirmed by the Senate Transportation Committee",
+    "Open Date": "1/1/2024",
+    "Description": "3rd Congressional District",
+    "Appointed By": "Recommended by the State Regulation of Public Utilities Review Committee to the Governor's office. Nominees must be confirmed by the Senate Transportation Committee",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t58c031.php"
   },
   {
     "Category": "Engineering & Mechanics; Local & Regional Affairs",
     "Board/Commission": "South Carolina Public Service Authority Board of Directors",
-    "Open Date": "Vacant",
-    "Description": "2nd Congressional District",
-    "Appointed By": "Recommended by the State Regulation of Public Utilities Review Committee to Please contact the Governor's office directly to apply. Nominees must be confirmed by the Senate Transportation Committee",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t58c031.php"
-  },
-  {
-    "Category": "Engineering & Mechanics; Local & Regional Affairs",
-    "Board/Commission": "South Carolina Public Service Authority Board of Directors",
-    "Open Date": "5/19/2021",
-    "Description": "4th Congressional District",
-    "Appointed By": "Recommended by the State Regulation of Public Utilities Review Committee to Please contact the Governor's office directly to apply. Nominees must be confirmed by the Senate Transportation Committee",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t58c031.php"
-  },
-  {
-    "Category": "Engineering & Mechanics; Local & Regional Affairs",
-    "Board/Commission": "South Carolina Public Service Authority Board of Directors",
-    "Open Date": "1/1/2023",
+    "Open Date": "Nominee pending confirmation",
     "Description": "7th Congressional District",
-    "Appointed By": "Recommended by the State Regulation of Public Utilities Review Committee to Please contact the Governor's office directly to apply. Nominees must be confirmed by the Senate Transportation Committee",
+    "Appointed By": "Recommended by the State Regulation of Public Utilities Review Committee to the Governor's office. Nominees must be confirmed by the Senate Transportation Committee",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t58c031.php"
   },
   {
     "Category": "Engineering & Mechanics; Local & Regional Affairs",
     "Board/Commission": "South Carolina Public Service Authority Board of Directors",
-    "Open Date": "1/1/2023",
-    "Description": "Berkeley County",
-    "Appointed By": "Recommended by the State Regulation of Public Utilities Review Committee to Please contact the Governor's office directly to apply. Nominees must be confirmed by the Senate Transportation Committee",
+    "Open Date": "1/1/2024",
+    "Description": "At-Large",
+    "Appointed By": "Recommended by the State Regulation of Public Utilities Review Committee to the Governor's office. Nominees must be confirmed by the Senate Transportation Committee",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t58c031.php"
   },
   {
@@ -7898,14 +8002,6 @@
   {
     "Category": "Real Estate, Development & Housing; Workforce",
     "Board/Commission": "South Carolina Real Estate Commission",
-    "Open Date": "5/24/2020",
-    "Description": "7th Congressional District",
-    "Appointed By": "Please contact the 7th Congressional District Legislative Delegation directly to apply",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t40c057.php"
-  },
-  {
-    "Category": "Real Estate, Development & Housing; Workforce",
-    "Board/Commission": "South Carolina Real Estate Commission",
     "Open Date": "Vacant",
     "Description": "General Public",
     "Appointed By": "Please contact the Governor's office directly to apply. Nominees must be confirmed by the Senate Labor, Commerce and Industry Committee",
@@ -7922,14 +8018,6 @@
   {
     "Category": "Government; Local & Regional Affairs; Business & Finance; Education; Environment & Conservation; Science",
     "Board/Commission": "South Carolina Recycling Market Development Advisory Council",
-    "Open Date": "5/6/2023",
-    "Description": "Division of State Development",
-    "Appointed By": "Please contact the Governor's office directly to apply.",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t13c001.php"
-  },
-  {
-    "Category": "Government; Local & Regional Affairs; Business & Finance; Education; Environment & Conservation; Science",
-    "Board/Commission": "South Carolina Recycling Market Development Advisory Council",
     "Open Date": "12/2/2022",
     "Description": "General Public",
     "Appointed By": "Please contact the Governor's office directly to apply.",
@@ -7940,6 +8028,14 @@
     "Board/Commission": "South Carolina Recycling Market Development Advisory Council",
     "Open Date": "5/6/2023",
     "Description": "Glass Industry",
+    "Appointed By": "Please contact the Governor's office directly to apply.",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t13c001.php"
+  },
+  {
+    "Category": "Government; Local & Regional Affairs; Business & Finance; Education; Environment & Conservation; Science",
+    "Board/Commission": "South Carolina Recycling Market Development Advisory Council",
+    "Open Date": "12/31/2023",
+    "Description": "Higher Education Research Institution",
     "Appointed By": "Please contact the Governor's office directly to apply.",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t13c001.php"
   },
@@ -7962,8 +8058,8 @@
   {
     "Category": "Government; Local & Regional Affairs; Business & Finance; Education; Environment & Conservation; Science",
     "Board/Commission": "South Carolina Recycling Market Development Advisory Council",
-    "Open Date": "5/20/2023",
-    "Description": "Recycling Industry",
+    "Open Date": "12/9/2023",
+    "Description": "Tire Industry",
     "Appointed By": "Please contact the Governor's office directly to apply.",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t13c001.php"
   },
@@ -8714,7 +8810,7 @@
   {
     "Category": "Government; Education; Workforce",
     "Board/Commission": "State Board for Technical and Comprehensive Education",
-    "Open Date": "7/1/2016",
+    "Open Date": "7/1/2022",
     "Description": "At-Large, Federal Jobs Training Programs",
     "Appointed By": "Please contact the Governor's office directly to apply.",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t59c053.php"
@@ -8818,7 +8914,7 @@
   {
     "Category": "Professional; Workforce",
     "Board/Commission": "State Board of Cosmetology",
-    "Open Date": "3/20/2013",
+    "Open Date": "Nominee pending confirmation",
     "Description": "Nail Technician",
     "Appointed By": "Please contact the Governor's office directly to apply. Nominees must be confirmed by the Senate Labor, Commerce and Industry Committee",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t40c013.php"
@@ -8843,22 +8939,6 @@
     "Category": "Health & Medicine; Education; Workforce; Professional",
     "Board/Commission": "State Board of Examiners in Psychology",
     "Open Date": "Vacant",
-    "Description": "Clinical Psychologist",
-    "Appointed By": "Please contact the Governor's office directly to apply.",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t40c055.php"
-  },
-  {
-    "Category": "Health & Medicine; Education; Workforce; Professional",
-    "Board/Commission": "State Board of Examiners in Psychology",
-    "Open Date": "Vacant",
-    "Description": "Counseling Psychologist",
-    "Appointed By": "Please contact the Governor's office directly to apply.",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t40c055.php"
-  },
-  {
-    "Category": "Health & Medicine; Education; Workforce; Professional",
-    "Board/Commission": "State Board of Examiners in Psychology",
-    "Open Date": "3/21/2021",
     "Description": "Counseling Psychologist",
     "Appointed By": "Please contact the Governor's office directly to apply.",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t40c055.php"
@@ -8970,7 +9050,7 @@
   {
     "Category": "Business & Finance",
     "Board/Commission": "State Board of Financial Institutions",
-    "Open Date": "6/30/2022",
+    "Open Date": "Nominee pending confirmation",
     "Description": "Mortgage Lending",
     "Appointed By": "Please contact the Governor's office directly to apply. Nominees must be confirmed by the Senate Banking and Insurance Committee",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t34c001.php"
@@ -9154,6 +9234,14 @@
   {
     "Category": "Health & Medicine; Professional; Workforce",
     "Board/Commission": "State Board of Medical Examiners",
+    "Open Date": "12/31/2023",
+    "Description": "1st Congressional District, Doctor",
+    "Appointed By": "Please contact the Governor's office directly to apply. Nominees must be confirmed by the Senate Medical Affairs Committee",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t40c047.php"
+  },
+  {
+    "Category": "Health & Medicine; Professional; Workforce",
+    "Board/Commission": "State Board of Medical Examiners",
     "Open Date": "12/31/2020",
     "Description": "5th Congressional District, Doctor",
     "Appointed By": "Please contact the Governor's office directly to apply. Nominees must be confirmed by the Senate Medical Affairs Committee",
@@ -9162,7 +9250,15 @@
   {
     "Category": "Health & Medicine; Professional; Workforce",
     "Board/Commission": "State Board of Medical Examiners",
-    "Open Date": "12/31/2022",
+    "Open Date": "12/31/2023",
+    "Description": "6th Congressional District, Doctor",
+    "Appointed By": "Please contact the Governor's office directly to apply. Nominees must be confirmed by the Senate Medical Affairs Committee",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t40c047.php"
+  },
+  {
+    "Category": "Health & Medicine; Professional; Workforce",
+    "Board/Commission": "State Board of Medical Examiners",
+    "Open Date": "Nominee pending confirmation",
     "Description": "At-Large, Doctor",
     "Appointed By": "Please contact the Governor's office directly to apply. Nominees must be confirmed by the Senate Medical Affairs Committee",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t40c047.php"
@@ -9194,8 +9290,24 @@
   {
     "Category": "Health & Medicine; Professional; Workforce",
     "Board/Commission": "State Board of Nursing",
+    "Open Date": "12/31/2023",
+    "Description": "1st Congressional District, Registered Nurse",
+    "Appointed By": "Please contact the Governor's office directly to apply. Nominees must be confirmed by the Senate Medical Affairs Committee",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t40c033.php"
+  },
+  {
+    "Category": "Health & Medicine; Professional; Workforce",
+    "Board/Commission": "State Board of Nursing",
     "Open Date": "12/31/2022",
     "Description": "2nd Congressional District, Registered Nurse",
+    "Appointed By": "Please contact the Governor's office directly to apply. Nominees must be confirmed by the Senate Medical Affairs Committee",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t40c033.php"
+  },
+  {
+    "Category": "Health & Medicine; Professional; Workforce",
+    "Board/Commission": "State Board of Nursing",
+    "Open Date": "12/31/2023",
+    "Description": "3rd Congressional District, Registered Nurse",
     "Appointed By": "Please contact the Governor's office directly to apply. Nominees must be confirmed by the Senate Medical Affairs Committee",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t40c033.php"
   },
@@ -9234,7 +9346,7 @@
   {
     "Category": "Health & Medicine; Professional; Workforce",
     "Board/Commission": "State Board of Pharmacy",
-    "Open Date": "6/30/2023",
+    "Open Date": "Nominee pending confirmation",
     "Description": "1st Congressional District, Pharmacist",
     "Appointed By": "Please contact the Governor's office directly to apply. Nominees must be confirmed by the Senate Medical Affairs Committee",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t40c043.php"
@@ -9528,14 +9640,6 @@
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t48c023.php"
   },
   {
-    "Category": "Environment & Conservation; Agriculture; Fishing & Wildlife; Professional",
-    "Board/Commission": "State Commission of Forestry",
-    "Open Date": "6/30/2022",
-    "Description": "At-Large",
-    "Appointed By": "Please contact the Governor's office directly to apply. Nominees must be confirmed by the Senate Fish, Game and Forestry Committee",
-    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t48c023.php"
-  },
-  {
     "Category": "Government; Criminal Justice & Legal",
     "Board/Commission": "State Election Commission",
     "Open Date": "6/30/2023",
@@ -9796,6 +9900,14 @@
     "Board/Commission": "State Licensing Board for Contractors",
     "Open Date": "Vacant",
     "Description": "Consumer",
+    "Appointed By": "Please contact the Governor's office directly to apply.",
+    "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t40c011.php"
+  },
+  {
+    "Category": "Professional; Workforce; Building & Zoning; Engineering & Mechanics; Emergency Services & Security; Real Estate, Development & Housing; Transportation",
+    "Board/Commission": "State Licensing Board for Contractors",
+    "Open Date": "12/31/2023",
+    "Description": "Electrical Work",
     "Appointed By": "Please contact the Governor's office directly to apply.",
     "Governing Statute": "Governing Statute; https://www.scstatehouse.gov/code/t40c011.php"
   },
@@ -10284,14 +10396,6 @@
     "Board/Commission": "Statewide Independent Living Council",
     "Open Date": "Vacant",
     "Description": "Individual with Disabilities",
-    "Appointed By": "Please contact the Governor's office directly to apply.",
-    "Governing Statute": "Governing Statute; https://dc.statelibrary.sc.gov/bitstream/handle/10827/30265/GOV_Executive_Order_1973-01-16.pdf?sequence=1&isAllowed=y"
-  },
-  {
-    "Category": "Adult & Child Welfare; Disabilities; Military & Veterans",
-    "Board/Commission": "Statewide Independent Living Council",
-    "Open Date": "6/30/2023",
-    "Description": "Individual with Disabilities/Physical",
     "Appointed By": "Please contact the Governor's office directly to apply.",
     "Governing Statute": "Governing Statute; https://dc.statelibrary.sc.gov/bitstream/handle/10827/30265/GOV_Executive_Order_1973-01-16.pdf?sequence=1&isAllowed=y"
   },
